@@ -1,2230 +1,2269 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Cache-Control" content="NO-CACHE">
-<meta name="author" content="https://heylink.me">
-<meta property="fb:app_id" content="266003681172790" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:creator" content="@heylink.me" />
-<meta name="twitter:site" content="@heylink.me" />
-<meta name="twitter:domain" content="heylink.me" />
-<meta name="google-site-verification" content="hhN97mKag8AB6fsKTW0EMvqz6tEA9mFB6wM31r1ESaw">
-<meta name="google-adsense-platform-account" content="ca-host-pub-2885846345242349">
-<title>
-    HeyLink.me | MESA168
-  </title>
-<link rel="shortcut icon" type="image/x-icon" href="https://cdn-f.heylink.me/static/img/favicon_dark.ico?v=819324bd473323ebcf08b752930a13ab" />
-<link rel="icon" type="image/x-icon" href="https://cdn-f.heylink.me/static/img/favicon_dark.ico?v=819324bd473323ebcf08b752930a13ab" />
-<meta property="og:site_name" content="HeyLink.me | MESA168" />
-<meta property="og:image" content="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=800,h=800/https://cdn-b.heylink.me/media/users/avatars/bd1ab59a4a2f4e84a9301e523f1de9a8.png" />
-<meta property="og:image:width" content="800" />
-<meta property="og:image:height" content="800" />
-<meta property="og:type" content="profile" />
-<meta name="description" content>
-<meta name="keywords" content>
-<meta property="og:title" content="HeyLink.me | MESA168" />
-<meta property="og:url" content="https://heylink.me/mesa168/" />
-<meta property="og:description" content />
-<meta name="twitter:title" content="HeyLink.me | MESA168" />
-<meta name="twitter:description" content />
-<meta name="twitter:image:src" content="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=800/https://cdn-b.heylink.me/media/users/avatars/bd1ab59a4a2f4e84a9301e523f1de9a8.png" />
-<meta name="twitter:image" content="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=800/https://cdn-b.heylink.me/media/users/avatars/bd1ab59a4a2f4e84a9301e523f1de9a8.png" />
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js" defer></script>
+<!doctype html>
+<html lang="id" amp i-amphtml-binding i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Mesa168 Daftar penghargaan Game of the Year</title>
+	
+    <meta name="description" content="Mesa168: Situs Mesa168 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Mesa168 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai."/>
+    <meta name="keywords" content="Mesa168, Mesa168 gaming, Mesa168 Gaming, Gaming populer Mesa168, daftar Mesa168, Mesa168 gaming terbaru, Mesa168 gaming populer, situs Mesa168, agen Mesa168, hoki Gaming populer, Mesa168 Gaming populer, Mesa168 gaming terbaru"/>
+    <link itemprop="mainEntityOfPage" rel="canonical" href="https://slebew.bio/"/>
+    <meta name="robots" content="index, follow"/>
+    <meta name="page-locale" content="id,en">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta content="true" name="HandheldFriendly">
+    <meta content="width" name="MobileOptimized">
+    <meta content="indonesian" name="language">
+    <meta content='#007fa0' name='theme-color'/>
+    <link rel="preload" as="image" href="https://i.ibb.co/gVtNBFx/bannergaming2023.webp"/>
+    <meta name="supported-amp-formats" content="websites,stories,ads,email">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Mesa168 Daftar penghargaan Game of the Year">
+    <meta name="twitter:description" content="Mesa168: Situs Mesa168 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Mesa168 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai.">
+    <meta name="twitter:image:src" content="https://i.ibb.co/gVtNBFx/bannergaming2023.webp">
+    <meta name="og:title" content="Mesa168 Daftar penghargaan Game of the Yearg">
+    <meta name="og:description" content="Mesa168: Situs Mesa168 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Mesa168 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai.">
+    <meta name="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Roboto_Font_Sample.svg/1200px-Roboto_Font_Sample.svg.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="466">
+    <meta name="og:url" content=https://slebew.bio/">
+    <meta name="og:site_name" content="Mesa168">
+    <meta name="og:locale" content="ID_id">
+    <meta name="og:type" content="website">
+    <meta name="geo.placename" content="DKI Jakarta">
+    <meta name="geo.country" content="ID">
+    <meta name="geo.region" content="ID"/>
+    <meta name="tgn.nation" content="Indonesia">
+    <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/x5yTRxz/485567845867.jpg"/>
+    <link href='https://i.ibb.co/x5yTRxz/485567845867.jpg' rel='icon' sizes='32x32' type='image/png'/>
+	
+    <style amp-runtime i-amphtml-version="012107240354000">
+    html.i-amphtml-fie {
+      height: 100% !important;
+      width: 100% !important
+    }
 
-<script type="text/javascript" src="https://cdn.cookielaw.org/consent/ed015149-1f0d-43d2-85fc-05bb16cc098b/otSDKStub.js" defer type="text/javascript" charset="UTF-8" data-domain-script="ed015149-1f0d-43d2-85fc-05bb16cc098b"></script>
-<script type="text/javascript">function OptanonWrapper() { }</script>
+    html:not([amp4ads]),
+    html:not([amp4ads]) body {
+      height: auto !important
+    }
 
+    html:not([amp4ads]) body {
+      margin: 0 !important
+    }
 
-<script type="text/javascript" defer src="https://www.googletagmanager.com/gtag/js?id=G-SLMX7BZBWP"></script>
-<script type="text/javascript">
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+    body {
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+      text-size-adjust: 100%
+    }
 
-        gtag('config', 'G-SLMX7BZBWP');
-      </script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
-<link rel="shortcut icon" type="image/x-icon" href="https://cdn-f.heylink.me/static/img/favicon_dark.ico?v=819324bd473323ebcf08b752930a13ab" />
-<link rel="icon" type="image/x-icon" href="https://cdn-f.heylink.me/static/img/favicon_dark.ico?v=819324bd473323ebcf08b752930a13ab" />
-<link rel="stylesheet" type="text/css" href="https://cdn-f.heylink.me/static/dist/css/style.min.css?v=819324bd473323ebcf08b752930a13ab">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link id="async-css-loading" rel="stylesheet" media="print" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap">
-<script type="text/javascript">
-      document.getElementById("async-css-loading").addEventListener("load", function(){
-        this.onload=null;
-        this.removeAttribute('media');
-      });
+    html.i-amphtml-singledoc.i-amphtml-embedded {
+      -ms-touch-action: pan-y pinch-zoom;
+      touch-action: pan-y pinch-zoom
+    }
+
+    html.i-amphtml-fie>body,
+    html.i-amphtml-singledoc>body {
+      overflow: visible !important
+    }
+
+    html.i-amphtml-fie:not(.i-amphtml-inabox)>body,
+    html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body {
+      position: relative !important
+    }
+
+    html.i-amphtml-ios-embed-legacy>body {
+      overflow-x: hidden !important;
+      overflow-y: auto !important;
+      position: absolute !important
+    }
+
+    html.i-amphtml-ios-embed {
+      overflow-y: auto !important;
+      position: static
+    }
+
+    #i-amphtml-wrapper {
+      overflow-x: hidden !important;
+      overflow-y: auto !important;
+      position: absolute !important;
+      top: 0 !important;
+      left: 0 !important;
+      right: 0 !important;
+      bottom: 0 !important;
+      margin: 0 !important;
+      display: block !important
+    }
+
+    html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,
+    html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper {
+      -webkit-overflow-scrolling: touch !important
+    }
+
+    #i-amphtml-wrapper>body {
+      position: relative !important;
+      border-top: 1px solid transparent !important
+    }
+
+    #i-amphtml-wrapper+body {
+      visibility: visible
+    }
+
+    #i-amphtml-wrapper+body .i-amphtml-lightbox-element,
+    #i-amphtml-wrapper+body[i-amphtml-lightbox] {
+      visibility: hidden
+    }
+
+    #i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element {
+      visibility: visible
+    }
+
+    #i-amphtml-wrapper.i-amphtml-scroll-disabled,
+    .i-amphtml-scroll-disabled {
+      overflow-x: hidden !important;
+      overflow-y: hidden !important
+    }
+
+    amp-instagram {
+      padding: 54px 0 0 !important;
+      background-color: #fff
+    }
+
+    amp-iframe iframe {
+      box-sizing: border-box !important
+    }
+
+    [amp-access][amp-access-hide] {
+      display: none
+    }
+
+    [subscriptions-dialog],
+    body:not(.i-amphtml-subs-ready) [subscriptions-action],
+    body:not(.i-amphtml-subs-ready) [subscriptions-section] {
+      display: none !important
+    }
+
+    amp-experiment,
+    amp-live-list>[update] {
+      display: none
+    }
+
+    amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden {
+      display: none !important
+    }
+
+    amp-list [fetch-error],
+    amp-list[load-more] [load-more-button],
+    amp-list[load-more] [load-more-end],
+    amp-list[load-more] [load-more-failed],
+    amp-list[load-more] [load-more-loading] {
+      display: none
+    }
+
+    amp-list[diffable] div[role="list"] {
+      display: block
+    }
+
+    amp-story-page,
+    amp-story[standalone] {
+      min-height: 1px !important;
+      display: block !important;
+      height: 100% !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      overflow: hidden !important;
+      width: 100% !important
+    }
+
+    amp-story[standalone] {
+      background-color: #202325 !important;
+      position: relative !important
+    }
+
+    amp-story-page {
+      background-color: #757575
+    }
+
+    amp-story .amp-active>div,
+    amp-story .i-amphtml-loader-background {
+      display: none !important
+    }
+
+    amp-story-page:not(:first-of-type):not([distance]):not([active]) {
+      transform: translateY(1000vh) !important
+    }
+
+    amp-autocomplete {
+      position: relative !important;
+      display: inline-block !important
+    }
+
+    amp-autocomplete>input,
+    amp-autocomplete>textarea {
+      padding: .5rem;
+      border: 1px solid rgba(0, 0, 0, .33)
+    }
+
+    .i-amphtml-autocomplete-results,
+    amp-autocomplete>input,
+    amp-autocomplete>textarea {
+      font-size: 1rem;
+      line-height: 1.5rem
+    }
+
+    [amp-fx^="fly-in"] {
+      visibility: hidden
+    }
+
+    amp-script[nodom],
+    amp-script[sandboxed] {
+      position: fixed !important;
+      top: 0 !important;
+      width: 1px !important;
+      height: 1px !important;
+      overflow: hidden !important;
+      visibility: hidden
+    }
+
+    [hidden] {
+      display: none !important
+    }
+
+    .i-amphtml-element {
+      display: inline-block
+    }
+
+    .i-amphtml-blurry-placeholder {
+      transition: opacity .3s cubic-bezier(0, 0, .2, 1) !important;
+      pointer-events: none
+    }
+
+    [layout=nodisplay]:not(.i-amphtml-element) {
+      display: none !important
+    }
+
+    .i-amphtml-layout-fixed,
+    [layout=fixed][width][height]:not(.i-amphtml-layout-fixed) {
+      display: inline-block;
+      position: relative
+    }
+
+    .i-amphtml-layout-responsive,
+    [layout=responsive][width][height]:not(.i-amphtml-layout-responsive),
+    [width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),
+    [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive) {
+      display: block;
+      position: relative
+    }
+
+    .i-amphtml-layout-intrinsic,
+    [layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic) {
+      display: inline-block;
+      position: relative;
+      max-width: 100%
+    }
+
+    .i-amphtml-layout-intrinsic .i-amphtml-sizer {
+      max-width: 100%
+    }
+
+    .i-amphtml-intrinsic-sizer {
+      max-width: 100%;
+      display: block !important
+    }
+
+    .i-amphtml-layout-container,
+    .i-amphtml-layout-fixed-height,
+    [layout=container],
+    [layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height) {
+      display: block;
+      position: relative
+    }
+
+    .i-amphtml-layout-fill,
+    .i-amphtml-layout-fill.i-amphtml-notbuilt,
+    [layout=fill]:not(.i-amphtml-layout-fill),
+    body noscript>* {
+      display: block;
+      overflow: hidden !important;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0
+    }
+
+    body noscript>* {
+      position: absolute !important;
+      width: 100%;
+      height: 100%;
+      z-index: 2
+    }
+
+    body noscript {
+      display: inline !important
+    }
+
+    .i-amphtml-layout-flex-item,
+    [layout=flex-item]:not(.i-amphtml-layout-flex-item) {
+      display: block;
+      position: relative;
+      -ms-flex: 1 1 auto;
+      flex: 1 1 auto
+    }
+
+    .i-amphtml-layout-fluid {
+      position: relative
+    }
+
+    .i-amphtml-layout-size-defined {
+      overflow: hidden !important
+    }
+
+    .i-amphtml-layout-awaiting-size {
+      position: absolute !important;
+      top: auto !important;
+      bottom: auto !important
+    }
+
+    i-amphtml-sizer {
+      display: block !important
+    }
+
+    .i-amphtml-blurry-placeholder,
+    .i-amphtml-fill-content {
+      display: block;
+      height: 0;
+      max-height: 100%;
+      max-width: 100%;
+      min-height: 100%;
+      min-width: 100%;
+      width: 0;
+      margin: auto
+    }
+
+    .i-amphtml-layout-size-defined .i-amphtml-fill-content {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0
+    }
+
+    .i-amphtml-replaced-content,
+    .i-amphtml-screen-reader {
+      padding: 0 !important;
+      border: none !important
+    }
+
+    .i-amphtml-screen-reader {
+      position: fixed !important;
+      top: 0 !important;
+      left: 0 !important;
+      width: 4px !important;
+      height: 4px !important;
+      opacity: 0 !important;
+      overflow: hidden !important;
+      margin: 0 !important;
+      display: block !important;
+      visibility: visible !important
+    }
+
+    .i-amphtml-screen-reader~.i-amphtml-screen-reader {
+      left: 8px !important
+    }
+
+    .i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader {
+      left: 12px !important
+    }
+
+    .i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader {
+      left: 16px !important
+    }
+
+    .i-amphtml-unresolved {
+      position: relative;
+      overflow: hidden !important
+    }
+
+    .i-amphtml-select-disabled {
+      -webkit-user-select: none !important;
+      -ms-user-select: none !important;
+      user-select: none !important
+    }
+
+    .i-amphtml-notbuilt,
+    [layout]:not(.i-amphtml-element),
+    [width][height][heights]:not([layout]):not(.i-amphtml-element),
+    [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) {
+      position: relative;
+      overflow: hidden !important;
+      color: transparent !important
+    }
+
+    .i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,
+    [layout]:not([layout=container]):not(.i-amphtml-element)>*,
+    [width][height][heights]:not([layout]):not(.i-amphtml-element)>*,
+    [width][height][sizes]:not([layout]):not(.i-amphtml-element)>* {
+      display: none
+    }
+
+    amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content {
+      display: block
+    }
+
+    .i-amphtml-notbuilt:not(.i-amphtml-layout-container),
+    [layout]:not([layout=container]):not(.i-amphtml-element),
+    [width][height][heights]:not([layout]):not(.i-amphtml-element),
+    [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) {
+      color: transparent !important;
+      line-height: 0 !important
+    }
+
+    .i-amphtml-ghost {
+      visibility: hidden !important
+    }
+
+    .i-amphtml-element>[placeholder],
+    [layout]:not(.i-amphtml-element)>[placeholder],
+    [width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],
+    [width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder] {
+      display: block;
+      line-height: normal
+    }
+
+    .i-amphtml-element>[placeholder].amp-hidden,
+    .i-amphtml-element>[placeholder].hidden {
+      visibility: hidden
+    }
+
+    .i-amphtml-element:not(.amp-notsupported)>[fallback],
+    .i-amphtml-layout-container>[placeholder].amp-hidden,
+    .i-amphtml-layout-container>[placeholder].hidden {
+      display: none
+    }
+
+    .i-amphtml-layout-size-defined>[fallback],
+    .i-amphtml-layout-size-defined>[placeholder] {
+      position: absolute !important;
+      top: 0 !important;
+      left: 0 !important;
+      right: 0 !important;
+      bottom: 0 !important;
+      z-index: 1
+    }
+
+    amp-img.i-amphtml-ssr:not(.i-amphtml-element)>[placeholder] {
+      z-index: auto
+    }
+
+    .i-amphtml-notbuilt>[placeholder] {
+      display: block !important
+    }
+
+    .i-amphtml-hidden-by-media-query {
+      display: none !important
+    }
+
+    .i-amphtml-element-error {
+      background: green !important;
+      color: #fff !important;
+      position: relative !important
+    }
+
+    .i-amphtml-element-error:before {
+      content: attr(error-message)
+    }
+
+    i-amp-scroll-container,
+    i-amphtml-scroll-container {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: block
+    }
+
+    i-amp-scroll-container.amp-active,
+    i-amphtml-scroll-container.amp-active {
+      overflow: auto;
+      -webkit-overflow-scrolling: touch
+    }
+
+    .i-amphtml-loading-container {
+      display: block !important;
+      pointer-events: none;
+      z-index: 1
+    }
+
+    .i-amphtml-notbuilt>.i-amphtml-loading-container {
+      display: block !important
+    }
+
+    .i-amphtml-loading-container.amp-hidden {
+      visibility: hidden
+    }
+
+    .i-amphtml-element>[overflow] {
+      cursor: pointer;
+      position: relative;
+      z-index: 2;
+      visibility: hidden;
+      display: initial;
+      line-height: normal
+    }
+
+    .i-amphtml-layout-size-defined>[overflow] {
+      position: absolute
+    }
+
+    .i-amphtml-element>[overflow].amp-visible {
+      visibility: visible
+    }
+
+    template {
+      display: none !important
+    }
+
+    .amp-border-box,
+    .amp-border-box *,
+    .amp-border-box :after,
+    .amp-border-box :before {
+      box-sizing: border-box
+    }
+
+    amp-pixel {
+      display: none !important
+    }
+
+    amp-analytics,
+    amp-auto-ads,
+    amp-story-auto-ads {
+      position: fixed !important;
+      top: 0 !important;
+      width: 1px !important;
+      height: 1px !important;
+      overflow: hidden !important;
+      visibility: hidden
+    }
+
+    html.i-amphtml-fie>amp-analytics {
+      position: initial !important
+    }
+
+    [visible-when-invalid]:not(.visible),
+    form [submit-error],
+    form [submit-success],
+    form [submitting] {
+      display: none
+    }
+
+    amp-accordion {
+      display: block !important
+    }
+
+    @media (min-width:1px) {
+      :where(amp-accordion>section)>:first-child {
+        margin: 0;
+        background-color: #efefef;
+        padding-right: 20px;
+        border: 1px solid #dfdfdf
+      }
+
+      :where(amp-accordion>section)>:last-child {
+        margin: 0
+      }
+    }
+
+    amp-accordion>section {
+      float: none !important
+    }
+
+    amp-accordion>section>* {
+      float: none !important;
+      display: block !important;
+      overflow: hidden !important;
+      position: relative !important
+    }
+
+    amp-accordion,
+    amp-accordion>section {
+      margin: 0
+    }
+
+    amp-accordion:not(.i-amphtml-built)>section>:last-child {
+      display: none !important
+    }
+
+    amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child {
+      display: block !important
+    }
+
+    .Gaming_main_sec {
+      display: grid;
+      align-items: center;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 10px;
+      padding: 10px;
+      margin-top: 80px;
+      margin-bottom: 60px;
+    }
+
+    .site-description-container.testimonial_sec {
+      margin-bottom: 5px;
+      text-align: center;
+      grid-gap: 20px;
+    }
+
+    .testimonial_sec amp-img {
+      width: 100%;
+      max-width: 200px;
+      margin: 0 auto;
+    }
+
+    .footer_area {
+      padding: 15px;
+      background: #000;
+    }
+
+    .copyright_data_area {
+      padding: 10px;
+      text-align: center;
+      color: #ffffff;
+      margin-top: 5px;
+    }
+
+    .first_footer_sec {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-gap: 15px;
+    }
+
+    .first_footer_sec div {
+      padding-left: 3%;
+    }
+
+    .first_footer_sec span {
+      display: block;
+      font-size: small;
+    }
+
+    .footer_span {
+      margin-bottom: 1px;
+      font-weight: bold;
+      font-size: small;
+      color: #FFDE00D9;
+    }
+
+    .text-center {
+      margin-bottom: 1px;
+      font-weight: bold;
+      text-align: center;
+      content-align: center;
+    }
+  </style>
+  <script data-auto async src="https://cdn.ampproject.org/v0.mjs" type="module" crossorigin="anonymous"></script>
+  <script async nomodule src="https://cdn.ampproject.org/v0.js" crossorigin="anonymous"></script>
+  <script async src="https://cdn.ampproject.org/v0/amp-carousel-0.1.mjs" custom-element="amp-carousel" type="module" crossorigin="anonymous"></script>
+  <script async nomodule src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js" crossorigin="anonymous" custom-element="amp-carousel"></script>
+  <script async src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.mjs" custom-element="amp-install-serviceworker" type="module" crossorigin="anonymous"></script>
+  <script async nomodule src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js" crossorigin="anonymous" custom-element="amp-install-serviceworker"></script>
+  <script async src="https://cdn.ampproject.org/v0/amp-youtube-0.1.mjs" custom-element="amp-youtube" type="module" crossorigin="anonymous"></script>
+  <script async nomodule src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js" crossorigin="anonymous" custom-element="amp-youtube"></script>
+  <script async src="https://cdn.ampproject.org/v0/amp-accordion-0.1.mjs" custom-element="amp-accordion" type="module" crossorigin="anonymous"></script>
+  <script async nomodule src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" crossorigin="anonymous" custom-element="amp-accordion"></script>
+
+  <style amp-custom>
+    body {
+      -webkit-animation: -amp-start 8s steps(1, end) 0 1 normal both;
+      -moz-animation: -amp-start 8s steps(1, end) 0 1 normal both;
+      -ms-animation: -amp-start 8s steps(1, end) 0 1 normal both;
+      animation: -amp-start 8s steps(1, end) 0 1 normal both
+    }
+
+    @-webkit-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-moz-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-ms-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-o-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    html {
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%
+    }
+
+    a,
+    body,
+    div,
+    h1,
+    h2,
+    h3,
+    h4,
+    html,
+    p,
+    span {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      vertical-align: baseline
+    }
+
+    a,
+    a:active,
+    a:focus {
+      outline: 0;
+      text-decoration: none
+    }
+
+    a {
+      color: #fff
+    }
+
+    * {
+      padding: 0;
+      margin: 0;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      margin-top: 0;
+      margin-bottom: .5rem
+    }
+
+    p {
+      margin: 0 0 10px;
+      margin-top: 0;
+      margin-bottom: 1rem
+    }
+
+    .clear {
+      clear: both
+    }
+
+    .acenter {
+      text-align: center
+    }
+
+    body {
+      background-color: #020202
+    }
+
+    .container {
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
+      margin-bottom: 20px
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 6px 12px;
+      touch-action: manipulation;
+      cursor: pointer;
+      user-select: none;
+      background-image: none;
+      border: 1px solid transparent;
+      border-radius: 5px;
+      font: 250 16px Arial, "Helvetica Neue", Helvetica, sans-serif;
+      width: 100%;
+      color: #fff;
+      text-shadow: 0 0 3px #000;
+      letter-spacing: 1.1px
+    }
+
+    @keyframes blinking {
+      0% {
+        border: 2px solid #fff
+      }
+
+      100% {
+        border: 2px solid #be9f63
+      }
+    }
+
+    @media (min-width:768px) {
+      .container {
+        max-width: 720px
+      }
+
+      .tron-regis {
+        margin: 0 10px 0 0
+      }
+
+      .tron-login {
+        margin: 10px 20px 10px 0
+      }
+    }
+
+    @media (min-width:992px) {
+      .container {
+        max-width: 960px
+      }
+
+      .tron-regis {
+        margin: 0 10px 0 0
+      }
+
+      .tron-login {
+        margin: 0 10px 0 0
+      }
+    }
+
+    @media (min-width:1200px) {
+      .container {
+        width: 1000px
+      }
+
+      .tron-regis {
+        margin: 0 10px 0 0
+      }
+
+      .tron-login {
+        margin: 0 10px 0 0
+      }
+    }
+
+    .row {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      margin-right: -15px;
+      margin-left: -15px
+    }
+
+    .p-0 {
+      padding: 0
+    }
+
+    .col-md-12,
+    .col-md-4,
+    .col-md-6,
+    .col-md-8,
+    .col-xs-6 {
+      position: relative;
+      width: 100%;
+      padding-right: 15px;
+      padding-left: 15px
+    }
+
+    .col-xs-6 {
+      float: left;
+      width: 50%
+    }
+
+    @media (min-width:768px) {
+      .col-md-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%
+      }
+
+      .col-md-6 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%
+      }
+
+      .col-md-8 {
+        -ms-flex: 0 0 66.666667%;
+        flex: 0 0 66.666667%;
+        max-width: 66.666667%
+      }
+
+      .col-md-12 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        width: 100%
+      }
+
+      .logomobi {
+        display: none
+      }
+
+      .logform {
+        padding-top: 2rem
+      }
+
+      .tron-regis {
+        margin: 0 10px 0 0
+      }
+
+      .tron-login {
+        margin: 0 10px 0 0
+      }
+    }
+
+    @media (max-width:768px) {
+      .logo {
+        display: none
+      }
+
+      .navbar {
+        position: fixed
+      }
+
+      .logomobi {
+        padding-top: 10px;
+        border-bottom: solid #be9f63 2px;
+        border-radius: 10px
+      }
+
+      .content {
+        padding-top: 110px
+      }
+
+      .logo {
+        display: none
+      }
+
+      .tron-regis {
+        margin: 0 10px 0 0
+      }
+
+      .tron-login {
+        margin: 0 10px 0 0
+      }
+    }
+
+    .pb-2 {
+      padding-bottom: .5rem
+    }
+
+    .paddy {
+      padding: 15px
+    }
+
+    .mt-2 {
+      margin-top: .5rem
+    }
+
+    .mtop {
+      margin-top: .75rem
+    }
+
+    .mb-3 {
+      margin-bottom: .75rem
+    }
+
+    .pb-5 {
+      padding-bottom: 1.25rem
+    }
+
+    .pt-3 {
+      padding-top: 1rem
+    }
+
+    .navbar {
+      background-color: #000;
+      right: 0;
+      left: 0;
+      z-index: 1030;
+      width: 100%;
+      float: left
+    }
+
+    .bottom {
+      float: left;
+      width: 100%
+    }
+
+    ul li {
+      list-style-type: none
+    }
+
+    ul li:last-child {
+      border: 0
+    }
+
+    .copyleft {
+      text-decoration: none;
+      color: #fff;
+      margin: 35px 0
+    }
+
+    .copyleft a {
+      color: #be9f63
+    }
+
+    .slide {
+      width: 100%;
+      border: 2px solid #be9f63;
+      border-radius: 4px;
+      box-shadow: 0 0 3px 0 #be9f63
+    }
+
+    .btn-daf {
+      margin: 30px 0;
+      background: linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      animation: blinking .5s infinite;
+      transition: all .4s
+    }
+
+    @keyframes blinking {
+      0% {
+        border: 3px solid #0000
+      }
+
+      100% {
+        border: 3px solid #000
+      }
+    }
+
+    table.seo-Mesa168 {
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      width: 100%;
+      text-align: left;
+      border-collapse: collapse;
+      font-size: calc(8px+1vh);
+      margin: 0 20px 0 0
+    }
+
+    table.seo-Mesa168 td,
+    table.seo-Mesa168 th {
+      border: 1px solid #be9f63;
+      padding: 10px 5px
+    }
+
+    table.seo-Mesa168 tbody td {
+      font-size: calc(8px+1vh);
+      font-weight: 500;
+      color: #bfbfbf
+    }
+
+    table.seo-Mesa168 thead {
+      background: #be9f63
+    }
+
+    table.seo-Mesa168 thead th {
+      font-size: calc(12px+1vh);
+      font-weight: 700;
+      color: #000;
+      text-align: center;
+      background: linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%)
+    }
+
+    .main-menu-container {
+      aspect-ratio: 100 / 29;
+      margin: 0 10px;
+      display: flex;
+      flex-wrap: wrap;
+      flex-basis: 100%;
+      background-color: #000;
+      color: #fff;
+      padding: 20px
+    }
+
+    .main-menu-container ul>li {
+      display: inline;
+      padding: 0 8px
+    }
+
+    .main-menu-container ul>li:last-child {
+      border: 0
+    }
+
+    .main-menu-container>li {
+      flex-basis: 25%;
+      padding: 5px;
+      order: 2
+    }
+
+    .main-menu-container>li:nth-child(-n+4) {
+      order: 0
+    }
+
+    .main-menu-container>li>a {
+      display: block;
+      color: #fff;
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: calc(8px+1vh);
+      font-weight: 500;
+      border: 2px solid #be9f63;
+      border-radius: 5px;
+      padding: 30px;
+      text-align: center;
+      text-transform: uppercase;
+      background-color: #171717;
+      margin: 10px;
+      justify-content: center;
+      line-height: 20px
+    }
+
+    .bank-menu-container {
+      margin: 10px 0;
+      display: flex;
+      flex-wrap: wrap;
+      background-color: #000;
+      text-align: center
+    }
+
+    .bank-menu-container>li {
+      flex-basis: 25%;
+      padding: 0 0 0 10px
+    }
+
+    .bank-menu-container>li:nth-child(-n+4) {
+      order: 0
+    }
+
+    .site-description {
+      text-align: left;
+      padding: 10px;
+      color: #be9f63;
+      border-radius: 5px;
+      box-shadow: 0 0 8px 4px #be9f63
+    }
+
+    .site-description hr {
+      margin: 10px 0;
+      color: #be9f63;
+      border: 1px solid #be9f63
+    }
+
+    .site-description p {
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 16px;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 400;
+      line-height: 23px;
+      padding: 0 10px;
+      color: #fff
+    }
+
+    .site-description li {
+      margin: 5px 30px 10px;
+      text-align: justify;
+      color: #fff
+    }
+
+    .site-description ul>li>a {
+      color: #fff
+    }
+
+    .site-description a {
+      color: #ff006f
+    }
+
+    .site-description h1 {
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 2em;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 500;
+      color: #be9f63;
+      margin: 20px 0;
+      text-align: center
+    }
+
+    .site-description h2 {
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 1.5em;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 500;
+      line-height: 23px;
+      color: #be9f63;
+      margin: 20px 0;
+      text-align: center
+    }
+
+    .site-description h3 {
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 1.25em;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 500;
+      line-height: 23px;
+      color: #fff;
+      margin: 20px 0;
+      padding: 10px
+    }
+
+    .site-description h4 {
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 1em;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 500;
+      line-height: 23px;
+      color: #fff;
+      margin: 20px 0;
+      padding: 10px
+    }
+
+    .accordion h4 {
+      background-color: transparent;
+      border: 0;
+      font-size: 17px;
+      line-height: 28px
+    }
+
+    .accordion h4 i {
+      height: 40px;
+      line-height: 40px;
+      position: absolute;
+      right: 0;
+      font-size: 12px
+    }
+
+    #sub_wrapper {
+      background: #685934;
+      max-width: 650px;
+      position: relative;
+      padding: 10px;
+      border-radius: 4px;
+      margin: 20px auto
+    }
+
+    .tombol_toc {
+      position: relative;
+      outline: 0;
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: calc(12px+1vh);
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 300;
+      line-height: 10px;
+      color: #fff
+    }
+
+    .tombol_toc svg {
+      float: right
+    }
+
+    #daftarisi {
+      background: #262626;
+      padding: 10px 10px 0;
+      border-radius: 4px;
+      margin-top: 10px;
+      -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, .05);
+      box-shadow: 0 2px 15px rgba(0, 0, 0, .05);
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: calc(8px+1vh);
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 200;
+      line-height: 23px;
+      color: #be9f63
+    }
+
+    #daftarisi a {
+      text-decoration: none;
+      color: #fff
+    }
+
+    #daftarisi ol {
+      padding: 0 0 0 10px;
+      margin: 0
+    }
+
+    #daftarisi ol li.lvl1 {
+      line-height: 1.5em;
+      padding: 4px 0
+    }
+
+    #daftarisi ol li.lvl1:nth-child(n+2) {
+      border-top: 1px dashed #ddd
+    }
+
+    #daftarisi ol li.lvl1 a {
+      font-weight: 600
+    }
+
+    #daftarisi ol li.lvl2 a {
+      font-weight: 300;
+      display: block
+    }
+
+    #daftarisi ul.circle {
+      list-style-type: square;
+      padding: 0 0 0 10px;
+      margin: 0;
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: calc(6px+1vh);
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 200
+    }
+
+    #daftarisi ol li a:hover {
+      text-decoration: underline
+    }
+
+    :target::before {
+      content: "";
+      display: block;
+      height: 40px;
+      margin-top: -40px;
+      visibility: hidden
+    }
+
+    .tron-login {
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      border-radius: 5px;
+      color: #000;
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: calc(12px+1vh);
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 700;
+      line-height: 23px;
+      padding: 10px;
+      background: linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      -webkit-box-shadow: 1px 1px 15px 0 linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      -moz-box-shadow: 1px 1px 15px 0 linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      box-shadow: 1px 1px 15px 0 linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      border: solid #be9f63 3px;
+      text-decoration: none;
+      display: flex;
+      cursor: pointer;
+      text-align: center;
+      justify-content: center
+    }
+
+    .tron-login:hover {
+      background: linear-gradient(to right, #be9f63 0%, #000000 100%);
+      border: solid #be9f63 1px 1px 15px 0;
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      border-radius: 0;
+      text-decoration: none;
+      color: #fff
+    }
+
+    .tron-regis {
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      border-radius: 5px;
+      color: #fff;
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: calc(12px+1vh);
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 700;
+      line-height: 23px;
+      padding: 10px;
+      background: linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      color: #000;
+      text-decoration: none;
+      display: flex;
+      cursor: pointer;
+      text-align: center;
+      justify-content: center;
+      margin: 0 10px 0 0
+    }
+
+    .tron-regis:hover {
+      background: #000000;
+      border: solid #000000 5px;
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      border-radius: 0;
+      text-decoration: none
+    }
+
+    .tron {
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      border-radius: 5px;
+      color: #fff;
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: calc(8px+1vh);
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 300;
+      line-height: 15px;
+      padding: 10px;
+      background: linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      -webkit-box-shadow: 1px 1px 10px 0 linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      -moz-box-shadow: 1px 1px 10px 0 linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      box-shadow: 1px 1px 10px 0 linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      border: solid #be9f63 2px;
+      text-decoration: none;
+      display: flex;
+      cursor: pointer;
+      text-align: center;
+      justify-content: center;
+      margin: 10px 0
+    }
+
+    .tron:hover {
+      background: linear-gradient(#000000, #be9f63);
+      border: solid #be9f63 1px 1px 10px 0;
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      border-radius: 0;
+      text-decoration: none
+    }
+
+    .tron-images {
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      border-radius: 5px;
+      color: #be9f63;
+      -webkit-box-shadow: 1px 1px 10px 0 #be9f63;
+      -moz-box-shadow: 1px 1px 10px 0 #be9f63;
+      box-shadow: 1px 1px 10px 0 #be9f63;
+      display: block;
+      cursor: pointer;
+      text-align: center;
+      justify-content: center;
+      width: 100%;
+      height: auto;
+      margin-right: auto;
+      margin-left: auto
+    }
+
+    .tron-images:hover {
+      background: #000;
+      border: solid #be9f63 1px;
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      border-radius: 0
+    }
+
+    .wa-gift {
+      position: fixed;
+      width: 44px;
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      flex-direction: column;
+      -webkit-box-pack: end;
+      justify-content: flex-end;
+      bottom: 160px;
+      right: 20px;
+      z-index: 9
+    }
+
+    .wa-livechat {
+      position: fixed;
+      width: 44px;
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      flex-direction: column;
+      -webkit-box-pack: end;
+      justify-content: flex-end;
+      bottom: 80px;
+      right: 20px;
+      z-index: 9
+    }
+
+    .spacer {
+      margin: 0 0 30px;
+      display: block
+    }
+
+    @media screen and (min-width:701px) {
+      .logomobis {
+        margin-left: 500px;
+        display: none;
+        visibility: hidden
+      }
+
+      .logo {
+        background-color: transparent;
+        justify-content: center;
+        display: block;
+        border-bottom: solid #be9f63 2px;
+        padding: auto;
+        border-radius: 10px;
+        margin-top: 20px
+      }
+
+      .tron-regis {
+        margin: 0 10px 0 0
+      }
+
+      .tron-login {
+        margin: 0 10px 0 0
+      }
+    }
+
+    @media screen and (max-width:701px) {
+      .logo {
+        margin-left: 500px;
+        border-bottom: solid #000 2px;
+        display: none
+      }
+
+      .logomobis {
+        background-color: transparent;
+        justify-content: center;
+        display: flex;
+        border-bottom: solid #be9f63 2px;
+        padding: auto;
+        border-radius: 10px
+      }
+
+      .tron-regis {
+        margin: 0 10px 0 0
+      }
+
+      .tron-login {
+        margin: 0 10px 0 0
+      }
+    }
+
+    .updated {
+      border: solid 2px #be9f63;
+      padding: 10px
+    }
+
+    .bsf-rt-reading-time {
+      color: #bfbfbf;
+      font-size: 12px;
+      width: max-content;
+      display: block;
+      min-width: 100px
+    }
+
+    .bsf-rt-display-label:after {
+      content: attr(prefix)
+    }
+
+    .bsf-rt-display-time:after {
+      content: attr(reading_time)
+    }
+
+    .bsf-rt-display-postfix:after {
+      content: attr(postfix)
+    }
+
+    .bonus {
+      width: 88px;
+      height: 102px
+    }
+
+    @media (min-width:768px) {
+      .bonus {
+        width: 44px;
+        height: 51px
+      }
+    }
+
+    @media (min-width:320px) and (max-width:480px) {
+      .main-menu-container>li>a {
+        padding: 18px
+      }
+    }
+
+    @media (min-width:481px) and (max-width:767px) {
+      .main-menu-container>li>a {
+        padding: 30px
+      }
+    }
+
+    p#breadcrumbs {
+      color: #fff;
+      text-align: center
+    }
+
+    .site-description li h4 {
+      color: #fff;
+      line-height: 26px;
+      margin: 5px;
+      padding: 0;
+      text-align: left
+    }
+
+    .tron-regis {
+      animation: blinkings .5s infinite;
+      transition: all .4s;
+      touch-action: manipulation;
+      cursor: pointer
+    }
+
+    .anim {
+      animation: blinkings 1s infinite
+    }
+
+    @keyframes blinkings {
+      0% {
+        border: 4px solid #fff
+      }
+
+      100% {
+        border: 4px solid #be9f63
+      }
+    }
+
+    span.faq-arrow {
+      float: right;
+      color: #be9f63
+    }
+
+    .fixed-footer {
+      display: flex;
+      justify-content: space-around;
+      position: fixed;
+      background: linear-gradient(to bottom, #765c2e 0%, #f5d38c 100%);
+      padding: 5px 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 99
+    }
+
+    .fixed-footer a {
+      flex-basis: calc((100% - 15px*6)/ 5);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #fff;
+      max-width: 75px;
+      font-size: 12px
+    }
+
+    .fixed-footer .center {
+      transform: scale(1.5) translateY(-5px);
+      background: center no-repeat;
+      background-size: contain;
+      background-color: inherit;
+      border-radius: 50%
+    }
+
+    .fixed-footer amp-img {
+      max-width: 30%;
+      margin-bottom: 5px
+    }
+
+    .tada {
+      -webkit-animation-name: tada;
+      animation-name: tada;
+      -webkit-animation-duration: 1s;
+      animation-duration: 1s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-iteration-count: infinite
+    }
+
+    @-webkit-keyframes tada {
+      0% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1)
+      }
+
+      10%,
+      20% {
+        -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+      }
+
+      30%,
+      50%,
+      70%,
+      90% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+      }
+
+      40%,
+      60%,
+      80% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+      }
+
+      100% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1)
+      }
+    }
+
+    @keyframes tada {
+      0% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1)
+      }
+
+      10%,
+      20% {
+        -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+      }
+
+      30%,
+      50%,
+      70%,
+      90% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+      }
+
+      40%,
+      60%,
+      80% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+      }
+
+      100% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1)
+      }
+    }
+
+    .wobble {
+      -webkit-animation-name: wobble;
+      animation-name: wobble;
+      -webkit-animation-duration: 1s;
+      animation-duration: 1s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      animation-iteration-count: infinite
+    }
+
+    @-webkit-keyframes wobble {
+      0% {
+        -webkit-transform: none;
+        transform: none
+      }
+
+      15% {
+        -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+        transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+      }
+
+      30% {
+        -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+        transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+      }
+
+      45% {
+        -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+        transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+      }
+
+      60% {
+        -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+        transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+      }
+
+      75% {
+        -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+        transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+      }
+
+      100% {
+        -webkit-transform: none;
+        transform: none
+      }
+    }
+
+    @keyframes wobble {
+      0% {
+        -webkit-transform: none;
+        transform: none
+      }
+
+      15% {
+        -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+        transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg)
+      }
+
+      30% {
+        -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+        transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg)
+      }
+
+      45% {
+        -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+        transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg)
+      }
+
+      60% {
+        -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+        transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg)
+      }
+
+      75% {
+        -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+        transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg)
+      }
+
+      100% {
+        -webkit-transform: none;
+        transform: none
+      }
+    }
+
+    .site-description ul li {
+      list-style-type: square
+    }
+  </style>
+  
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Mesa168 gaming",
+        "alternateName": "Mesa168 gaming",
+        "url": "https://slebew.bio/",
+        "logo": "https://i.ibb.co/ZY305Vr/mesa168gaming.webp",
+        "sameAs": "https://slebew.bio/"
+      }
     </script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Acme&family=Averia+Sans+Libre&family=Cabin:wght@500&family=Dosis:wght@500&family=Fredoka+One&family=Kalam&family=Libre+Baskerville&family=Londrina+Solid&family=Merienda&family=Montserrat:wght@500&family=Nova+Round&family=Open+Sans&family=Oswald:wght@500&family=Playfair+Display:wght@500&family=Prosto+One&family=Quicksand:wght@500&family=Righteous&family=Rock+Salt&family=Rokkitt:wght@500&family=Special+Elite&family=Press+Start+2P&family=Anton&family=Architects+Daughter&family=Barrio&family=Berkshire+Swash&family=Fredericka+the+Great&family=Gochi+Hand&family=Lobster+Two&family=Monofett&family=Racing+Sans+One&family=Secular+One&family=Carter+One&family=Leckerli+One&family=Amaranth&family=Itim&family=Love+Ya+Like+A+Sister&family=Magra&family=Marcellus&family=Marmelad&family=Noto+Sans:wght@400;700&family=Nunito:wght@400;800&family=Philosopher:wght@400;700&family=McLaren&family=Acme&family=Averia+Sans+Libre&family=Cabin:wght@500&family=Dosis:wght@500&family=Fredoka+One&family=Kalam&family=Libre+Baskerville&family=Londrina+Solid&family=Merienda&family=Montserrat:wght@500&family=Nova+Round&family=Open+Sans&family=Oswald:wght@500&family=Playfair+Display:wght@500&family=Prosto+One&family=Quicksand:wght@500&family=Righteous&family=Rock+Salt&family=Rokkitt:wght@500&family=Special+Elite&family=Press+Start+2P&family=Anton&family=Architects+Daughter&family=Barrio&family=Berkshire+Swash&family=Fredericka+the+Great&family=Gochi+Hand&family=Lobster+Two&family=Monofett&family=Racing+Sans+One&family=Secular+One&family=Carter+One&family=Leckerli+One&family=Amaranth&family=Itim&family=Love+Ya+Like+A+Sister&family=Magra&family=Marcellus&family=Marmelad&family=Noto+Sans:wght@400;700&family=Nunito:wght@400;800&family=Philosopher:wght@400;700&family=McLaren&family=Balsamiq+Sans&family=Balsamiq+Sans&family=Changa+One&family=Paytone+One&family=Russo+One&family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Cairo:wght@200;300;400;500;600;700;800;900&family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&family=Jomhuria&family=Katibeh&family=Lalezar&family=Mada:wght@200;300;400;500;600;700;900&family=Mirza:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@100;200;300;400;500;600;700;800;900&family=Qahiri&family=Liu+Jian+Mao+Cao&family=Long+Cang&family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@100;300;400;500;700;900&family=Noto+Serif+SC:wght@200;300;400;500;600;700;900&family=ZCOOL+KuaiLe&family=ZCOOL+QingKe+HuangYou&family=ZCOOL+XiaoWei&family=Zhi+Mang+Xing&family=Liu+Jian+Mao+Cao&family=Long+Cang&family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@100;300;400;500;700;900&family=Noto+Serif+SC:wght@200;300;400;500;600;700;900&family=ZCOOL+KuaiLe&family=ZCOOL+QingKe+HuangYou&family=ZCOOL+XiaoWei&family=Zhi+Mang+Xing&family=Fahkwang:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Itim&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Noto+Sans+Thai:wght@100;200;300;400;500;600;700;800;900&family=Pattaya&family=Pridi:wght@200;300;400;500;600;700&family=Sarabun:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Sriracha&family=Taviraj:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Henny+Penny&family=Pangolin&family=Fira+Sans:wght@500&family=PT+Sans&family=Orelega+One&family=Gabriela&amily=Noto+Serif+TC:wght@400;700&family=Rubik:wght@600&display=swap">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css" integrity="sha512-T3VL1q6jMUIzGLRB9z86oJg9PgF7A55eC2XkB93zyWSqQw3Ju+6IEJZYBfT7E9wOHM7HCMCOZSpcssxnUn6AeQ==" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
-<link rel="stylesheet" href="https://jqueryui.com/resources/demos/style.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" />
-</head>
-<body>
-<div style="display:none;visibility:hidden;">
-<div id="i18n-data-copied">Data has been copied: paste it anywhere!</div>
-<div id="i18n-link-copied">Link has been copied: paste it anywhere!</div>
-<div id="i18n-cv-copied">CV link has been copied: paste it anywhere!</div>
-<div id="i18n-validation-minlength">Please enter at least 3 characters.</div>
-<div id="i18n-validation-email">Oops… please provide a valid email address</div>
-<div id="i18n-validation-phone">Oops… please provide a valid phone number</div>
-<div id="i18n-validation-required">This field is required</div>
-<div id="i18n-validation-password-match">Password doesn't match</div>
-<div id="i18n-validation-unknown">Registration error. Please try in a few minutes.</div>
-<div id="i18n-validation-too-long">Value is too long for this field.</div>
-</div>
-<div class="notification__popup" id="notificationPopUp">
-<div class="notification__wrapper">
-<div class="notication-text">
-
-</div>
-</div>
-</div>
-<div class="content-wrapper">
-<div class="user-page-section
-    
-      theme-class-05-crypto
-    
-
-    
-
-    
-    ">
-<div class="user-page-section-background lozad">
-<div id="bg-color">#595a5c</div>
-</div>
-<div class="container">
-<div class="wrapper
-            
-            
-              avatar-page-layout
-              
-            
-          " id="userWrapper" data-visitor_country="KH" data-clickurl="https://click.heylink.me" data-userid="360632">
-<div class="user-page-section-content">
-<div class="user-info">
-<div class="logo-container">
-<div class="common-user-icon__component avatar-style-01">
-<div class="lozad common-user-icon-wrapper" style="background-image:url('https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=200/https://cdn-b.heylink.me/media/users/avatars/bd1ab59a4a2f4e84a9301e523f1de9a8.png')"></div>
-</div>
-<div class="preview-share-icon__component" id="shareIconDropdown">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</div>
-<div class="username center" style>
-MESA168
-</div>
-</div>
-<div class="preview-links-list__component">
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    
-      wobble
-    " id="859532" data-id="859532" data-embed="false" data-link-type="link" data-priority-class="wobble" data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="859532" style=" "></div>
-<a href="https://www.wisatavilla.xyz/anjay?utm_medium=social&amp;utm_source=heylink.me" data-priority-class="wobble" data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="24597591566523960668717056-0" data-id="859532" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/d7e3db6e46e0458cb7151b295b8e6da0.png" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="859532">
-<div class="name" style="
-              ">
-AGEN SLOT GACOR JAMIN MAXWIN, GARANSI GACOR 100%, MEMBER BARU LANGSUNG WD MAXWIN
-</div>
-</div>
-<div class="preview-share-icon__component public_link_859532" id="public_link_859532" data-id="publics_link_859532">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_859532">
-<div class="dropdown-popup share-dropdown" id="publics_link_859532">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://www.wisatavilla.xyz/anjay?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://www.wisatavilla.xyz/anjay?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://www.wisatavilla.xyz/anjay?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://www.wisatavilla.xyz/anjay?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://www.wisatavilla.xyz/anjay?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://www.wisatavilla.xyz/anjay?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://www.wisatavilla.xyz/anjay?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://www.wisatavilla.xyz/anjay?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="5258974" data-id="5258974" data-embed="false" data-link-type="link" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="5258974" style=" "></div>
-<a href="https://mesa168.co/?ref=anjayy/&amp;utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="920811073722155627166367744-0" data-id="5258974" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/452f2a02f61445d785d297414713c404.jpg" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="5258974">
-<div class="name" style="
-              ">
-situs slot gacor mudah maxwin
-</div>
-</div>
-<div class="preview-share-icon__component public_link_5258974" id="public_link_5258974" data-id="publics_link_5258974">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_5258974">
-<div class="dropdown-popup share-dropdown" id="publics_link_5258974">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://mesa168.co/?ref=anjayy/&amp;utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://mesa168.co/?ref=anjayy/&amp;utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://mesa168.co/?ref=anjayy/&amp;utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://mesa168.co/?ref=anjayy/&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://mesa168.co/?ref=anjayy/&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://mesa168.co/?ref=anjayy/&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://mesa168.co/?ref=anjayy/&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://mesa168.co/?ref=anjayy/&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="4819463" data-id="4819463" data-embed="false" data-link-type="link" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="4819463" style=" "></div>
-<a href="https://www.instagram.com/mesa168.slot/?utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="773331653884399917808500736-0" data-id="4819463" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/ec3837f52e8e42bf9fbe115309a87106.png" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="4819463">
-<div class="name" style="
-              ">
-SITUS SLOT GACOR TERPERCAYA PASTI BAYAR
-</div>
-</div>
-<div class="preview-share-icon__component public_link_4819463" id="public_link_4819463" data-id="publics_link_4819463">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_4819463">
-<div class="dropdown-popup share-dropdown" id="publics_link_4819463">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://www.instagram.com/mesa168.slot/?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://www.instagram.com/mesa168.slot/?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://www.instagram.com/mesa168.slot/?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://www.instagram.com/mesa168.slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://www.instagram.com/mesa168.slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://www.instagram.com/mesa168.slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://www.instagram.com/mesa168.slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://www.instagram.com/mesa168.slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    
-      wobble
-    " id="859537" data-id="859537" data-embed="false" data-link-type="twitter" data-priority-class="wobble" data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="859537" style=" "></div>
-<a href="https://twitter.com/Mesa_168?utm_medium=social&amp;utm_source=heylink.me" data-priority-class="wobble" data-link-type="twitter" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="24597877741594930494324736-0" data-id="859537" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/e6a23ad33cca4d65ba41f29cad6207f3.png" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="859537">
-<div class="name" style="
-              ">
-LIVECHAT ADMIN CANTIK
-</div>
-</div>
-<div class="preview-share-icon__component public_link_859537" id="public_link_859537" data-id="publics_link_859537">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_859537">
-<div class="dropdown-popup share-dropdown" id="publics_link_859537">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://twitter.com/Mesa_168?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://twitter.com/Mesa_168?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://twitter.com/Mesa_168?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://twitter.com/Mesa_168?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://twitter.com/Mesa_168?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://twitter.com/Mesa_168?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://twitter.com/Mesa_168?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://twitter.com/Mesa_168?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="common-expanded-block
-hidden
-  
-    theme-class-05-crypto
-  
-  " style data-id="859537" data-embed="false" data-type="twitter">
-
-</div>
-<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
-</div>
-<div class="up-expanded  hidden
-    
-      up-twitter
-    
-    " data-id="859537" data-priority-class="wobble" data-expanded="false">
-<div class="close-btn-expanded-block btn-up " data-id="859537" data-priority-class="wobble">
-<img src="https://cdn-f.heylink.me/static/img/ic_shewron_up.svg" alt="icon arrow up">
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="5299014" data-id="5299014" data-embed="false" data-link-type="link" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="5299014" style=" "></div>
-<a href="https://www.facebook.com/mesa168.mesaslot?utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="934885921901786651610906624-0" data-id="5299014" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/445060e70457401cb6017a0d4d8d216c.png" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="5299014">
-<div class="name" style="
-              ">
-SLOT MPO TERBAIK 2023
-</div>
-</div>
-<div class="preview-share-icon__component public_link_5299014" id="public_link_5299014" data-id="publics_link_5299014">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_5299014">
-<div class="dropdown-popup share-dropdown" id="publics_link_5299014">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://www.facebook.com/mesa168.mesaslot?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://www.facebook.com/mesa168.mesaslot?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://www.facebook.com/mesa168.mesaslot?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://www.facebook.com/mesa168.mesaslot?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://www.facebook.com/mesa168.mesaslot?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://www.facebook.com/mesa168.mesaslot?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://www.facebook.com/mesa168.mesaslot?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://www.facebook.com/mesa168.mesaslot?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="5130507" data-id="5130507" data-embed="false" data-link-type="video" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="5130507" style=" "></div>
-<a href="https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="video" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="876373133361661644846022656-0" data-id="5130507" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/7dc5c39c89e747a9b9db2aaea4d7ad89.png" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="5130507">
-<div class="name" style="
-              ">
-SLOT GAMPANG MAXWIN
-</div>
-</div>
-<div class="preview-share-icon__component public_link_5130507" id="public_link_5130507" data-id="publics_link_5130507">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_5130507">
-<div class="dropdown-popup share-dropdown" id="publics_link_5130507">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-video-link__component hidden " data-id="5130507">
-<div class="video-link-url" data-id="5130507" data-link-type="video" data-videoservice="youtube" data-videolink-url="https://www.youtube.com/watch?v=HzfZwI1iz24&amp;utm_medium=social&amp;utm_source=heylink.me" data-is_autoplay="false" data-is_mute="false" data-videoid="HzfZwI1iz24" data-embed="False" data-expanded="false">
-</div>
-</div>
-</div>
-<div class="up-expanded  hidden
-    
-      up-video
-    
-    " data-id="5130507" data-priority-class data-expanded="false">
-<div class="close-btn-expanded-block btn-up " data-id="5130507" data-priority-class>
-<img src="https://cdn-f.heylink.me/static/img/ic_shewron_up.svg" alt="icon arrow up">
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="4615879" data-id="4615879" data-embed="false" data-link-type="link" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="4615879" style=" "></div>
-<a href="https://medium.com/@mesa168-slot/?utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="709377350067675849236168704-0" data-id="4615879" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/33a54c67ef1941d4961f2b10a6036bf0.gif" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="4615879">
-<div class="name" style="
-              ">
-SLOT GACOR MODAL RECEH MUDAH MAXWIN
-</div>
-</div>
-<div class="preview-share-icon__component public_link_4615879" id="public_link_4615879" data-id="publics_link_4615879">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_4615879">
-<div class="dropdown-popup share-dropdown" id="publics_link_4615879">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://medium.com/@mesa168-slot/?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://medium.com/@mesa168-slot/?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://medium.com/@mesa168-slot/?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://medium.com/@mesa168-slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://medium.com/@mesa168-slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://medium.com/@mesa168-slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://medium.com/@mesa168-slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://medium.com/@mesa168-slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="4046852" data-id="4046852" data-embed="false" data-link-type="link" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="4046852" style=" "></div>
-<a href="https://mesa168slot.blogspot.com/?utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="545259360345675437684555776-0" data-id="4046852" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/2f0730623e764f7fbe3b9553fcb548f7.jpg" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="4046852">
-<div class="name" style="
-              ">
-INFO RTP SLOT, POLA GACOR, JAM GACOR DAN CARA MAIN MUDAH MAXWIN
-</div>
-</div>
-<div class="preview-share-icon__component public_link_4046852" id="public_link_4046852" data-id="publics_link_4046852">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_4046852">
-<div class="dropdown-popup share-dropdown" id="publics_link_4046852">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://mesa168slot.blogspot.com/?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://mesa168slot.blogspot.com/?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://mesa168slot.blogspot.com/?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://mesa168slot.blogspot.com/?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://mesa168slot.blogspot.com/?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://mesa168slot.blogspot.com/?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://mesa168slot.blogspot.com/?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://mesa168slot.blogspot.com/?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    
-      wobble
-    " id="859538" data-id="859538" data-embed="false" data-link-type="link" data-priority-class="wobble" data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="859538" style=" "></div>
-<a href="https://gacor77.bio/?utm_medium=social&amp;utm_source=heylink.me" data-priority-class="wobble" data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="24597934976808889614401536-0" data-id="859538" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/5c2a8e24e9c943c098cd1043ac4a963e.png" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="859538">
-<div class="name" style="
-              ">
-WHATSAPP
-</div>
-</div>
-<div class="preview-share-icon__component public_link_859538" id="public_link_859538" data-id="publics_link_859538">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_859538">
-<div class="dropdown-popup share-dropdown" id="publics_link_859538">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://gacor77.bio/?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://gacor77.bio/?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://gacor77.bio/?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://gacor77.bio/?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://gacor77.bio/?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://gacor77.bio/?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://gacor77.bio/?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://gacor77.bio/?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="5521276" data-id="5521276" data-embed="false" data-link-type="link" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="5521276" style=" "></div>
-<a href="https://livedraw.homes/?utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="1014956433755028020370079744-0" data-id="5521276" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/25e704d33d7d4988a13f8d19339d0de6.gif" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="5521276">
-<div class="name" style="
-              ">
-gameonline.sgp1.cdn.digitaloceanspaces.com
-</div>
-</div>
-<div class="preview-share-icon__component public_link_5521276" id="public_link_5521276" data-id="publics_link_5521276">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_5521276">
-<div class="dropdown-popup share-dropdown" id="publics_link_5521276">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://livedraw.homes/?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://livedraw.homes/?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://livedraw.homes/?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://livedraw.homes/?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://livedraw.homes/?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://livedraw.homes/?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://livedraw.homes/?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://livedraw.homes/?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="5583298" data-id="5583298" data-embed="false" data-link-type="link" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="5583298" style=" "></div>
-<a href="https://sites.google.com/view/mesa168-mesaslot/?utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="1037887072653992058122469376-0" data-id="5583298" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/87f5256d07a74d4d8dc843d2e83f2c84.png" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="5583298">
-<div class="name" style="
-              ">
-slotindo.sgp1.cdn.digitaloceanspaces.com
-</div>
-</div>
-<div class="preview-share-icon__component public_link_5583298" id="public_link_5583298" data-id="publics_link_5583298">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_5583298">
-<div class="dropdown-popup share-dropdown" id="publics_link_5583298">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://sites.google.com/view/mesa168-mesaslot/?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://sites.google.com/view/mesa168-mesaslot/?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://sites.google.com/view/mesa168-mesaslot/?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://sites.google.com/view/mesa168-mesaslot/?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://sites.google.com/view/mesa168-mesaslot/?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://sites.google.com/view/mesa168-mesaslot/?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://sites.google.com/view/mesa168-mesaslot/?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://sites.google.com/view/mesa168-mesaslot/?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="5892968" data-id="5892968" data-embed="false" data-link-type="pinterest" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="5892968" style=" "></div>
-<a href="https://id.pinterest.com/mesa168_slot/?utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="pinterest" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="1156209814843810945413677056-0" data-id="5892968" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/925049239ca3495dad5a6cfc56786d63.png" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="5892968">
-<div class="name" style="
-              ">
-id.pinterest.com
-</div>
-</div>
-<div class="preview-share-icon__component public_link_5892968" id="public_link_5892968" data-id="publics_link_5892968">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_5892968">
-<div class="dropdown-popup share-dropdown" id="publics_link_5892968">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://id.pinterest.com/mesa168_slot/?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://id.pinterest.com/mesa168_slot/?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://id.pinterest.com/mesa168_slot/?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://id.pinterest.com/mesa168_slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://id.pinterest.com/mesa168_slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://id.pinterest.com/mesa168_slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://id.pinterest.com/mesa168_slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://id.pinterest.com/mesa168_slot/?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="common-expanded-block
-hidden
-  
-    theme-class-05-crypto
-  
-  " style data-id="5892968" data-embed="false" data-type="pinterest">
-
-</div>
-<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
-</div>
-<div class="up-expanded  hidden
-    
-      up-pinterest
-    
-    " data-id="5892968" data-priority-class data-expanded="false">
-<div class="close-btn-expanded-block btn-up " data-id="5892968" data-priority-class>
-<img src="https://cdn-f.heylink.me/static/img/ic_shewron_up.svg" alt="icon arrow up">
-</div>
-</div>
-<div class="preview-link-item__component
-    
-    
-      theme-class-05-crypto
-    
-    " id="5892969" data-id="5892969" data-embed="false" data-link-type="link" data-priority-class data-is-expanded="false" style="
-    
-    ">
-<div class="link-underlayer" data-id="5892969" style=" "></div>
-<a href="https://www.hackerrank.com/mesa168/?utm_medium=social&amp;utm_source=heylink.me" data-priority-class data-link-type="link" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="1156210207247066128410230784-0" data-id="5892969" data-pdf data-is_expanded="false" data-is_embed="false" data-is_locked="false" target="_blank" rel="noopener noreferrer" class="preview-link-wrapper
-    
-    
-    
-    
-    " style="
-    
-    
-    
-    ">
-<div class="lozad thumbnail
-          
-        " data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=96/https://cdn-b.heylink.me/media/links/thumbnails/d3c6e851d5504cbda03c9ff45b1ed944.jpg" data-background-delimiter="^"></div>
-<div class="link-info left" data-id="5892969">
-<div class="name" style="
-              ">
-www.hackerrank.com
-</div>
-</div>
-<div class="preview-share-icon__component public_link_5892969" id="public_link_5892969" data-id="publics_link_5892969">
-<svg xmlns="https://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z" fill /></svg>
-</div>
-</a>
-<div class="dropdown__share" data-id="publics_link_5892969">
-<div class="dropdown-popup share-dropdown" id="publics_link_5892969">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="
-          https://www.hackerrank.com/mesa168/?utm_medium=social&amp;utm_source=heylink.me
-        ">
-https://www.hackerrank.com/mesa168/?utm_medium=social&amp;utm_source=heylink.me
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="
-          https://www.hackerrank.com/mesa168/?utm_medium=social&amp;utm_source=heylink.me
-        " />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://www.hackerrank.com/mesa168/?utm_medium=social&amp;utm_source=heylink.me" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://www.hackerrank.com/mesa168/?utm_medium=social&amp;utm_source=heylink.me" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://www.hackerrank.com/mesa168/?utm_medium=social&amp;utm_source=heylink.me" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://www.hackerrank.com/mesa168/?utm_medium=social&amp;utm_source=heylink.me" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email" data-shareurl="https://www.hackerrank.com/mesa168/?utm_medium=social&amp;utm_source=heylink.me" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-image-sliders-list__component">
-<div class="preview-image-slider-item__component" style="
-          background-color: #FFFFFF;
-          ">
-<div class="
-            slider-wrapper
-            
-            square
-            
-            " data-dots="true" data-autoplay="false" data-autoplay-speed="3">
-<div>
-<div class="image-wrapper">
-<div class="image lozad" data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=600/https://cdn-b.heylink.me/media/sliders/images/a7b209af7b2c4cd4801d3a7ad6053902.jpg" data-background-delimiter="^">
-</div>
-<div class="slide-info-wrapper">
-</div>
-</div>
-</div>
-<div>
-<div class="image-wrapper">
-<div class="image lozad" data-background-image="https://heylink.me/cdn-cgi/image/f=auto,q=85,fit=crop,w=600/https://cdn-b.heylink.me/media/sliders/images/d1ceb9055b4c4420a6f0efa48a4e3d36.jpg" data-background-delimiter="^">
-</div>
-<div class="slide-info-wrapper">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="preview-social-links__component">
-<a class="social-link-item-button__component twitter " href="https://www.twitter.com/@Mesa_168" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="14701214969161268491976704-1" target="_blank" rel="noopener noreferrer" style="
-        background: linear-gradient(0deg, rgba(28,134,221,1) 0%, rgba(84,198,247,1) 100%);
-      ">
-<div class="icon"><svg viewBox="0 0 90 90" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#a)"><path d="M70.88 3.75h13.8L54.53 38.21 90 85.102H62.228l-21.752-28.44-24.89 28.44H1.777l32.249-36.859L0 3.75h28.477L48.14 29.745 70.88 3.75Zm-4.843 73.091h7.647L24.322 11.576h-8.206l49.92 65.265Z" /></g><defs><clipPath id="a"><path d="M0 0h90v90H0z" /></clipPath></defs></svg></div>
-<div class="text">My Twitter</div>
-</a>
-<a class="social-link-item-button__component facebook " href="https://www.facebook.com/mesa168.mesaslot" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="14701170721479093633433600-1" target="_blank" rel="noopener noreferrer" style="
-        background: linear-gradient(0deg, rgba(35,72,172,1) 0%, rgba(81,122,222,1) 100%);
-      ">
-<div class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17 26"><g id="ic_facebook"><path id="facebook" d="M16.370,5.205 C16.370,5.205 12.849,5.200 12.849,5.200 C11.741,5.198 10.843,6.027 10.841,7.051 C10.841,7.051 10.835,10.719 10.835,10.719 L16.273,10.727 L15.512,16.004 L10.826,15.997 L10.809,25.167 L5.106,25.158 L5.123,15.988 L0.415,15.981 L0.424,10.704 L5.132,10.711 C5.132,10.711 5.140,6.279 5.140,6.279 C5.145,3.055 7.973,0.446 11.456,0.452 C11.456,0.452 16.378,0.459 16.378,0.459 L16.370,5.205 z" /></g></svg></div>
-<div class="text">My Facebook</div>
-</a>
-<a class="social-link-item-button__component instagram " href="https://www.instagram.com/mesa168.slot" data-action="send_click" data-apiurl="https://click.heylink.me" data-userid="360632" data-linkid="14701037978832099367714816-1" target="_blank" rel="noopener noreferrer" style="
-        background: linear-gradient(270deg, rgba(245,132,60,1) 0%, rgba(215,57,122,1) 55%, rgba(89,89,206,1) 100%);
-      ">
-<div class="icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24"><g id="ic_instagram"><path id="instagram" d="M23.913,18.045 C23.848,19.464 23.613,20.229 23.416,20.737 C22.942,21.965 21.966,22.942 20.736,23.416 C20.229,23.613 19.464,23.848 18.044,23.913 C16.471,23.985 15.999,24.000 12.000,24.000 C8.001,24.000 7.529,23.985 5.955,23.913 C4.535,23.848 3.771,23.613 3.259,23.414 C2.652,23.191 2.094,22.827 1.637,22.357 C1.173,21.907 0.810,21.348 0.584,20.736 C0.387,20.228 0.152,19.463 0.087,18.045 C0.015,16.463 -0.000,15.989 -0.000,12.000 C-0.000,8.011 0.015,7.537 0.087,5.955 C0.152,4.536 0.387,3.771 0.585,3.259 C0.810,2.652 1.173,2.093 1.643,1.637 C2.094,1.173 2.652,0.809 3.264,0.584 C3.771,0.387 4.536,0.152 5.955,0.087 C7.530,0.015 8.002,-0.000 12.000,-0.000 C15.989,-0.000 16.463,0.015 18.045,0.087 C19.463,0.152 20.228,0.387 20.741,0.586 C21.347,0.809 21.906,1.173 22.363,1.643 C22.827,2.093 23.190,2.652 23.416,3.264 C23.613,3.770 23.848,4.534 23.913,5.955 C23.985,7.528 24.000,8.001 24.000,12.000 C24.000,15.999 23.985,16.471 23.913,18.045 zM12.000,4.012 C7.595,4.012 4.011,7.595 4.011,12.000 C4.011,16.405 7.595,19.988 12.000,19.988 C16.405,19.988 19.989,16.405 19.989,12.000 C19.989,7.595 16.405,4.012 12.000,4.012 zM20.002,1.908 C18.850,1.908 17.913,2.845 17.913,3.997 C17.913,5.149 18.850,6.087 20.002,6.087 C21.154,6.087 22.091,5.149 22.092,3.997 C22.092,2.845 21.155,1.908 20.002,1.908 zM12.000,16.707 C9.405,16.707 7.293,14.595 7.293,12.000 C7.293,9.404 9.405,7.293 12.000,7.293 C14.595,7.293 16.707,9.404 16.707,12.000 C16.707,14.595 14.595,16.707 12.000,16.707 z" /></g></svg></div>
-<div class="text">My Instagram</div>
-</a>
-</div>
-<div class="preview-anonymous-messages__component
-  
-  " style="
-  
-  ">
-<div class="link-underlayer" style="
-    ">
-</div>
-<div class="preview-anonymous-messages-wrapper">
-<div class="preview-anonymous-messages-content pseudo-input-preview">
-<form id="anonymousMessagesForm" class="anonymous-messages" method="post" action="/message/" data-username="mesa168">
-<div class="form-field input-field message">
-<div class="field">
-<input type="text" name="message" autocomplete="off" required placeholder="Leave your message here..." class="form-input" id="anonymousMessagesTextInput" />
-<div id="anonymousMessagesTextInput-error" class="validation-error validation-async__error"></div>
-<span class="max-characters" id="anonymousMessagesTextInputMaxCharacters">
-<i>512</i> characters remaining
-</span>
-</div>
-</div>
-<div class="form-field">
-<button type="submit">
-<span>Send Message</span>
-<div class="arrow">
-<svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M19.5 9.3L1.2.1C1.1 0 .9 0 .8 0 .6 0 .5.1.3.2.2.3.1.4.1.6 0 .7 0 .9.1 1l2.5 9-2.5 9v.4c0 .1.1.2.2.3.1.1.2.2.3.2 0 .1.1.1.3.1.1 0 .3 0 .4-.1l18.3-9.2c.1-.1.3-.2.3-.3s.1-.2.1-.4 0-.3-.1-.4c-.1-.2-.2-.3-.4-.3zM2.2 17.6L4 10.8l5-.8-5-.8-1.8-6.8L17.3 10 2.2 17.6z" /></svg>
-</div>
-</button>
-</div>
-</form>
-</div>
-<div class="preview-anonymous-messages-content click-button">
-<span class="success-text">
-<div class="icon"></div>
-<span>Your message was sent successfully!</span>
-</span>
-</div>
-</div>
-</div>
-</div>
-<div class="user-page-section-footer 
-  
-">
-<div class="footer-wrapper logo-position-right">
-<div class="abuse-report medium">
-<div class="data-variables" style="display: none" data-dashboard_url="https://app.heylink.me" data-session="en_US"></div>
-<div class="report-abuse-button__component" role="button" tabindex="-1" style="
-    
-  ">
-<div class="report-abuse-button-wrapper" id="reportAbuseButton">
-<svg viewBox="0 0 16 16" fill="none" xmlns="https://www.w3.org/2000/svg">
-<circle cx="8" cy="8" r="7" stroke-width="2" />
-<path d="M8 11V8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-<path d="M7.99 5H8.01" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-</svg>
-</div>
-<div class="report-abuse-button-info">
-<div class="report-abuse-button-info-wrapper">
-<div class="page-report-section">
-<span><a href="#reportAbuseModal" rel="modal:open">Report abuse</a></span>
-</div>
-</div>
-</div>
-</div>
-<div id="reportAbuseModal" class="modal report-abuse-modal__component" data-username="mesa168">
-<div class="report-abuse-modal-wrapper" data-title="What would you like to report to HeyLink.me team?">
-<h4>What would you like to report to HeyLink.me team?</h4>
-<input type="text" name="reason" autocomplete="off" class="form-input" id="reportAbuseReasonField" aria-hidden="true">
-<input type="text" name="reason" autocomplete="off" class="form-input" id="reportAbuseReportIdField" aria-hidden="true">
-<div class="modal-section first-step">
-<div class="modal-section-button " role="button" data-reason="Spam, Malware or Phishing">
-<span>Spam, Malware or Phishing</span>
-</div>
-<div class="modal-section-button " role="button" data-reason="Sexually explicit">
-<span>Sexually explicit</span>
-</div>
-<div class="modal-section-button " role="button" data-reason="Violent or Dangerous">
-<span>Violent or Dangerous</span>
-</div>
-<div class="modal-section-button " role="button" data-reason="Hate speech, Harassment or Bullying">
-<span>Hate speech, Harassment or Bullying</span>
-</div>
-<div class="modal-section-button else-btn" role="button" data-reason="Something else">
-<span>Something else</span>
-</div>
-</div>
-<div class="modal-section second-step">
-<div class="modal-section-textarea">
-<textarea class="form-input message-block" type="text" name="message" placeholder="Write your message here..." id="reportAbuseMessageArea"></textarea>
-</div>
-<div class="modal-section-action-btn">
-<div class="modal-section-button skip" role="button">
-<span>Skip</span>
-</div>
-<div class="modal-section-button send" role="button">
-<span>Send Message</span>
-</div>
-</div>
-</div>
-<div class="modal-section third-step">
-<div class="modal-section-success">
-<p class="success">If you have any further feedback about this profile, please send an email at <a href="mailto:support@heylink.me">support@heylink.me</a></p>
-<p class="success">If you want to create a <b>HeyLink.me</b> profile</p>
-<p class="error"></p>
-<p class="helper">If you have some troubles, please send an email at <span>support@heylink.me</span></p>
-<div class="modal-secion-success-actions">
-<div class="modal-section-button undo" role="button">
-<span>Undo</span>
-</div>
-<div class="modal-section-button done" role="button">
-<span>Create HeyLink.me</span>
-</div>
-<div class="modal-section-button try-again" role="button">
-<span>Try again</span>
-</div>
-</div>
-</div>
-</div>
-<div class="modal-section else-step">
-<div class="modal-section-button " role="button" data-reason="Personal Impersonation">
-<span>Personal Impersonation</span>
-</div>
-<div class="modal-section-button " role="button" data-reason="Corporate Impersonation ">
-<span>Corporate Impersonation </span>
-</div>
-<div class="modal-section-button " role="button" data-reason="Personal and Confidential information">
-<span>Personal and Confidential information</span>
-</div>
-<div class="modal-section-button " role="button" data-reason="Copyright / Legal violation">
-<span>Copyright / Legal violation</span>
-</div>
-<div class="modal-section-button " role="button" data-reason="Regulated Goods or Services">
-<span>Regulated Goods or Services</span>
-</div>
-</div>
-<div class="modal-section back-section">
-<div class="modal-back-btn" role="button">
-<span>
-<svg width="15" height="10" viewBox="0 0 15 10" fill="none" xmlns="https://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0.292893 5.74485C-0.0976311 5.35432 -0.097631 4.72116 0.292893 4.33063L4.31818 0.305345C4.70871 -0.0851796 5.34187 -0.0851802 5.7324 0.305344C6.12292 0.695868 6.12292 1.32903 5.7324 1.71956L3.45193 4.00002H13.9637C14.516 4.00002 14.9637 4.44773 14.9637 5.00002C14.9637 5.5523 14.516 6.00002 13.9637 6.00002H3.37796L5.66527 8.28733C6.0558 8.67785 6.0558 9.31102 5.66527 9.70154C5.27475 10.0921 4.64158 10.0921 4.25106 9.70154L0.326131 5.77662C0.31487 5.76633 0.303787 5.75574 0.292893 5.74485Z" fill="white" /></svg>
-</span>
-<span>back</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div></div>
-<div class="logo">
-<div class="preview-heylinkme-logo__component medium" data-href style="
-                text-align: right;
-                
-              ">
-<div class="exclusive-theme-logo"></div>
-<div class="heylinkme-logo medium right">
-<svg version="1.1" x="0" y="0" viewBox="0 0 115 23" xmlns="http://www.w3.org/2000/svg">
-<g fill="
-                    
-                  ">
-<path d="m18.4 4.9-3.8-3.7c-1.4-1.3-3.5-1.3-4.9 0-.2.2-.4.3-.6.6-.6.6-.6 1.7.1 2.3.5.5 1.2.6 1.8.4.3-.1.2-.1.6-.3.5-.2 1.1-.1 1.5.3l2.8 2.8 2.8 2.8c.4.4.5 1 .3 1.5-.2.4-.2.4-.3.6-.2.6-.1 1.3.4 1.8.6.7 1.7.7 2.4.1.2-.2.4-.4.6-.6 1.3-1.4 1.3-3.5 0-4.8z" />
-<path d="m12.3 18.5c-.2.1-.5.2-.6.3-.5.2-1.1.1-1.4-.3l-2.8-2.8-2.9-2.7c-.4-.4-.5-.9-.3-1.4.1-.2.2-.5.3-.6.3-.6.1-1.3-.4-1.8-.6-.7-1.7-.7-2.4-.1-.2.2-.3.3-.5.5-1.3 1.3-1.3 3.4 0 4.8l3.7 3.7 3.7 3.7c1.3 1.3 3.5 1.3 4.9 0 .2-.2.4-.4.6-.6.6-.7.6-1.7-.1-2.3-.4-.5-1.2-.6-1.8-.4z" />
-<path d="m16.2 13.2c-.8-.8-2.1-.8-2.9 0s-.8 2.1 0 2.9c2.3 2.2 2.2 2.1 4.4 4.4.8.8 2.1.8 2.9 0s.8-2.1 0-2.9c-2.2-2.3-2.1-2.2-4.4-4.4z" />
-<path d="m7.1 9.9c.8.8 2.1.8 2.9 0s.8-2.1 0-2.9c-2.3-2.2-2.1-2.1-4.4-4.4-.8-.8-2.1-.8-2.9 0s-.8 2.1 0 2.9c2.2 2.2 2.1 2.1 4.4 4.4z" />
-<path d="m35.6 11.2h-5v-4.6h-1.7v10.7h1.7v-4.7h5v4.7h1.8v-10.7h-1.8z" />
-<path d="m45.4 9.2c-.6-.3-1.3-.5-2.1-.5s-1.6.2-2.2.5c-.6.4-1.1.9-1.5 1.5-.4.7-.5 1.4-.5 2.3s.2 1.6.5 2.3.9 1.2 1.5 1.5c.6.4 1.4.5 2.2.5 1 0 1.8-.2 2.5-.7s1.1-1.1 1.4-1.9h-1.9c-.4.8-1.1 1.2-2 1.2-.7 0-1.2-.2-1.7-.6-.4-.4-.7-.9-.8-1.6h6.4c0-.3.1-.5.1-.9 0-.8-.2-1.5-.5-2.2-.3-.5-.8-1-1.4-1.4zm-4.5 3.1c.1-.7.3-1.2.8-1.6.4-.4.9-.6 1.5-.6.7 0 1.2.2 1.7.6.4.4.7.9.7 1.5h-4.7z" />
-<path d="m52.4 15.3-2.4-6.5h-1.9l3.3 8.3-1.7 4.1h1.8l5.2-12.4h-1.8z" />
-<path d="m59.8 6.6h-1.8v10.7h5.4v-1.4h-3.6z" />
-<path d="m65.7 5.5c-.3 0-.6.1-.8.3s-.3.5-.3.8.1.6.3.8.5.3.8.3.6-.1.8-.3.3-.5.3-.8-.1-.6-.3-.8-.5-.3-.8-.3z" />
-<path d="m64.8 8.8h1.7v8.4h-1.7z" />
-<path d="m74.9 9.1c-.5-.3-1.1-.4-1.8-.4-.5 0-1 .1-1.4.3s-.8.5-1.1.8v-1h-1.7v8.4h1.7v-4.7c0-.8.2-1.3.6-1.7s.9-.6 1.6-.6 1.2.2 1.5.6c.4.4.6 1 .6 1.7v4.7h1.7v-5c0-.8-.1-1.4-.4-2-.4-.4-.8-.8-1.3-1.1z" />
-<path d="m83.6 8.8-3.1 3.7v-6.6h-1.7v11.4h1.7v-3.7l3.2 3.7h2.3l-3.9-4.2 3.9-4.3z" />
-<path d="m88 15.1c-.3 0-.6.1-.8.3s-.3.5-.3.8.1.6.3.8.5.3.8.3.6-.1.8-.3.3-.5.3-.8-.1-.6-.3-.8-.5-.3-.8-.3z" />
-<path d="m103 9.1c-.5-.3-1.1-.4-1.8-.4-.6 0-1.2.2-1.7.5s-.9.7-1.2 1.2c-.3-.5-.7-1-1.2-1.2-.5-.3-1.1-.4-1.8-.4-.5 0-1 .1-1.4.3s-.8.5-1.1.8v-1h-1.8v8.4h1.7v-4.7c0-.8.2-1.3.6-1.7s.9-.6 1.6-.6 1.2.2 1.5.6c.4.4.6 1 .6 1.7v4.7h1.7v-4.7c0-.8.2-1.3.6-1.7s.9-.6 1.6-.6 1.2.2 1.5.6c.4.4.6 1 .6 1.7v4.7h1.7v-5c0-.8-.2-1.4-.5-2-.3-.5-.7-.9-1.2-1.2z" />
-<path d="m114.6 12.8c0-.8-.2-1.5-.5-2.2-.3-.6-.8-1.1-1.5-1.5-.6-.3-1.3-.5-2.1-.5s-1.6.2-2.2.5c-.6.4-1.1.9-1.5 1.5-.4.7-.5 1.4-.5 2.3s.2 1.6.5 2.3.9 1.2 1.5 1.5c.6.4 1.4.5 2.2.5 1 0 1.8-.2 2.5-.7s1.1-1.1 1.4-1.9h-1.9c-.4.8-1.1 1.2-2 1.2-.7 0-1.2-.2-1.7-.6-.4-.4-.7-.9-.8-1.6h6.4c.2-.1.2-.4.2-.8zm-6.5-.5c.1-.7.3-1.2.8-1.6.4-.4.9-.6 1.5-.6.7 0 1.2.2 1.7.6.4.4.7.9.7 1.5h-4.7z" />
-</g>
-</svg>
-</div>
-</div>
-</div>
-
-<button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookies Preferences</button>
-
-</div>
-</div>
-<div class="signup-form__component">
-<div class="signup-form-wrapper">
-<div class="signup-banner">
-<img class="lozad" data-src="https://cdn-f.heylink.me/static/img/signup_banner2.png" alt="banner">
-<div class="close-icon-wrapper">
-<img class="close" src="https://cdn-f.heylink.me/static/img/ic_close_icon.svg" alt="close icon">
-</div>
-</div>
-<h1 class="signup-title hide-on-success">Create your own <span>HeyLink.me</span></h1>
-<h1 class="signup-title hidden show-on-success">Welcome to <strong>HeyLink.me!</strong></h1>
-<form id="signupForm" action="/signup/" method="POST" class="signup-form hide-on-success">
-<input id="referrer" type="hidden" name="referrer" value="https://heylink.me/mesa168/">
-<div class="field">
-<input id="email" type="text" name="email" required placeholder="Email*">
-</div>
-<div class="field">
-<input id="username" type="text" name="username" required placeholder="Username*">
-</div>
-<div class="field">
-<input id="password" type="password" name="password" required placeholder="Password*">
-</div>
-<div class="validation-error-signup"></div>
-<div class="form-field-button">
-<button type="submit" class="form-submit active">Sign Up</button>
-</div>
-</form>
-<div class="text-wrapper hide-on-success">
-<div class="text">Or sign up with your social account</div>
-<a class="social-button" href="https://accounts.google.com/o/oauth2/auth?client_id=330458598700-tvc98fsf0a3np731fossp5rnd0v3ddga.apps.googleusercontent.com&response_type=code&scope=email+profile+openid&redirect_uri=https://app.heylink.me/login/google">
-<div>
-<img class="lozad" data-src="https://cdn-f.heylink.me/static/img/brands/ic_google.svg" alt="google icon">
-</div>
-<div>Sign up with <span>Google</span></div>
-</a>
-<a class="social-button" href="https://www.facebook.com/v11.0/dialog/oauth?client_id=266003681172790&redirect_uri=https://app.heylink.me/login/facebook&state=fbloginheylinkme&scope=email">
-<div>
-<img class="lozad" data-src="https://cdn-f.heylink.me/static/img/brands/ic_fb.svg" alt="facebook icon">
-</div>
-<div>Sign up with <span>Facebook</span></div>
-</a>
-<div class="link">
-<a href="https://app.heylink.me/login/?lng=en_US&referrer=https://www.google.com/">Learn more or log in to HeyLink.me</a>
-</div>
-<div class="text privacy">
-By signing up you agree to HeyLink.me <a href="/terms">Terms</a> & <a href="/privacy">Privacy</a>
-</div>
-</div>
-<div class="success-message hidden show-on-success">
-<div className="message-container">
-<div class="email-icon">
-<img class="lozad" data-src="https://cdn-f.heylink.me/static/img/mail.svg" alt="mail icon">
-</div>
-<div class="user-email"></div>
-<div class="subtext">
-Confirm your email by clicking the verification link we just sent to your inbox
-</div>
-<div class="buttons-block">
-<a href="https://app.heylink.me/login/?lng=en_US&referrer=https://www.google.com/">
-<div class="text">Continue to HeyLink.me</div>
-<div class="icon">
-<img class="lozad" data-src="https://cdn-f.heylink.me/static/img/ic_arrow_right.svg" alt="arrow icon">
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="paymentLoader" class="commerce-loader">
-<div class="window">
-<div class="icon-animation">
-<img class="img-center" src="https://cdn-f.heylink.me/static/img/Animation_Loading2.gif" alt="Loader animation" />
-</div>
-<div class="text">Making secure payment to</div>
-<div class="text"><strong>@mesa168</strong></div>
-</div>
-</div>
-<div class="dropdown__share">
-<div class="dropdown-popup share-dropdown" id="dropdownShare">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<div class="dropdown-title">Share HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="https://heylink.me/mesa168">
-https://heylink.me/mesa168
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="https://heylink.me/mesa168" />
-</div>
-<div class="share-item social-button-hidden" data-shareurl="https://heylink.me/mesa168" data-type="social-button">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/shareble-icons/Social_btn.svg" alt="social icon">
-<div class="social-title">Share on Social</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item fb social-items-hidden social-items" data-shareurl="https://heylink.me/mesa168" data-type="fb">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Facebook.svg" alt="social icon">
-<div class="social-title">Share on Facebook</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item telegram social-items-hidden social-items" data-shareurl="https://heylink.me/mesa168" data-type="telegram">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Telegram.svg" alt="social icon">
-<div class="social-title">Share via Telegram</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item tw social-items-hidden social-items" data-shareurl="https://heylink.me/mesa168" data-type="tw">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Twitter.svg" alt="social icon">
-<div class="social-title">Share on Twitter</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item linkedin social-items-hidden social-items" data-shareurl="https://heylink.me/mesa168" data-type="linkedin">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Linkedin.svg" alt="social icon">
-<div class="social-title">Share on LinkedIn</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="share-item email-button" data-shareurl="https://heylink.me/mesa168" data-type="email">
-<div class="icon-title-wrapper">
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_Email.svg" alt="email icon">
-<div class="social-title">Share via Email</div>
-</div>
-<img class="lozad" src="https://cdn-f.heylink.me/static/img/ic_chevron-right.svg" alt="right icon">
-</div>
-<div class="dropdown-footer ">
-<div class="text-wrapper">
-<div><b>Just one link for everything.&nbsp;</b></div>
-<div>Trusted by 3.5m+ customers.</div>
-</div>
-<div class="dropdown-footer-buttons-wrapper">
-<a href="/signup/?lng=en_US">
-<div class="btn-wrapper">
-<div class="btn btn-start-for-free primary-blue-btn ">
-Start For Free
-</div>
-</div>
-</a>
-<a href="/">
-<div class="btn-wrapper">
-<div class="btn btn-learn-more secondary-blue-btn ">
-Learn more
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="dropdown__qrcode">
-<div class="dropdown-popup qrcode-dropdown" id="dropdownQR">
-<div class="popup-window popup-share">
-<div class="popup-header">
-<div class="title-wrapper">
-<img class="lozad logo-icon" data-src="https://cdn-f.heylink.me/static/img/logo_pict.svg" alt="logo" />
-<div class="dropdown-title">HeyLink.me</div>
-</div >
-<div class="close-btn-wrapper">
-<img class="btn-close-popup" src="https://cdn-f.heylink.me/static/img/close_btn.svg" alt="close button">
-</div>
-</div>
-<div class="dropdown__container" style>
-<div class="field-share-link">
-<div class="link-text" data-share="https://heylink.me/mesa168">
-https://heylink.me/mesa168
-</div>
-<img class="lozad ic-copy-scroll-shortcut" data-src="https://cdn-f.heylink.me/static/img/ic_copy_full.svg" alt="share icon" data-shareurl="https://heylink.me/mesa168" />
-</div>
-<img class="lozad qrcode" data-src="https://cdn-b.heylink.me/media/" alt="qr code" />
-<div class="btn-wrapper">
-<div class="btn-wrapper">
-<div class="btn btn-png primary-blue-btn " data-image="https://s3-ap-southeast-2.amazonaws.com/cdn-b.heylink.me/media/">
-<img src="https://cdn-f.heylink.me/static/img/ic_qr-code.svg" alt="Download qr" />
-Download QR Code
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/scripts.min.js?v=819324bd473323ebcf08b752930a13ab"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Clamp.js/0.5.1/clamp.min.js" integrity="sha512-9PanvIYgF2gT2Yau/uKb9ms+cOBNVo+sQzWDb+nLX5F4FZvEUiuFhKIQPmVU2jCvZKKTVB3Y8giDezNt/1H3xg==" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/downloadjs/1.4.8/download.min.js" integrity="sha512-WiGQZv8WpmQVRUFXZywo7pHIO0G/o3RyiAJZj8YXNN4AV7ReR1RYWVmZJ6y3H06blPcjJmG/sBpOVZjTSFFlzQ==" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js" integrity="sha256-+BEKmIvQ6IsL8sHcvidtDrNOdZO3C9LtFPtF2H0dOHI=" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js" integrity="sha512-ztxZscxb55lKL+xmWGZEbBHekIzy+1qYKHGZTWZYH1GUwxy0hiA18lW6ORIMj4DHRgvmP/qGcvqwEyFFV7OYVQ==" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/vcard.min.js?v=819324bd473323ebcf08b752930a13ab"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/user.min.js?v=819324bd473323ebcf08b752930a13ab"></script>
-<script type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/signup-form.min.js?v=819324bd473323ebcf08b752930a13ab"></script>
-<script type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/anonymous-messages.min.js?v=819324bd473323ebcf08b752930a13ab"></script>
-<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
-<script type="text/javascript" src="https://cdn-f.heylink.me/static/dist/js/locked-links.min.js?v=819324bd473323ebcf08b752930a13ab"></script>
-<script type="text/javascript">
-      const observer = window.lozad();
-      observer.observe();
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://slebew.bio/"
+        },
+        "headline": "Mesa168 Daftar penghargaan Game of the Year",
+        "description": "Mesa168: Situs Mesa168 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Mesa168 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai.",
+        "image": ["https://i.ibb.co/gVtNBFx/bannergaming2023.webp", "https://i.ibb.co/gVtNBFx/bannergaming2023.webp"],
+        "author": {
+          "@type": "Organization",
+          "name": "Mesa168",
+          "url": "https://slebew.bio/"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Mesa168 gaming",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://i.ibb.co/gVtNBFx/bannergaming2023.webp"
+          }
+        },
+        "datePublished": "-04-05T09:22:24+00:00",
+        "dateModified": "-05-13T17:05:07+00:00"
+      }
     </script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" data-cf-beacon='{"rayId":"8160edebef3b1097","token":"2326dabcda0f42f9b2ea16ef2ef83d6d","version":"2023.8.0","si":100}' crossorigin="anonymous"></script>
-</body>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://slebew.bio/"
+        }, {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mesa168",
+          "item": "https://slebew.bio/"
+        }, {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mesa168 Daftar penghargaan Game of the Year"
+        }]
+      }
+        </script>
+  </head>
+  <body>
+    <div class="navbar">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="logomobi acenter">
+              <span itemscope="itemscope" itemtype="http://schema.org/Brand">
+                <a itemprop="url" href="#" title="Mesa168 gaming">
+                  <a href="#" title="Mesa168 gaming">
+                    <amp-img src="https://i.ibb.co/ZY305Vr/mesa168gaming.webp" alt="Mesa168 gaming" width="270" height="94"/>
+                  </a>
+                  <meta itemprop="name" content="Mesa168 Daftar penghargaan Game of the Year">
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="clear"></div>
+    <div class="content">
+      <div class="container">
+        <div class="row mtop">
+          <div class="col-md-4">
+            <div class="logo acenter">
+              <span itemscope="itemscope" itemtype="http://schema.org/Brand">
+                <a itemprop="url" href="https://slebew.bio/" title="Mesa168 gaming">
+                  <a href="#" title="Mesa168 gaming">
+                    <amp-img src="https://i.ibb.co/ZY305Vr/mesa168gaming.webp" alt="Mesa168 gaming" width="300" height="68" layout="responsive"/>
+                  </a>
+                  <meta itemprop="name" content="Mesa168 Daftar penghargaan Game of the Year">
+                </a>
+              </span>
+            </div>
+          </div>
+
+          <div class="col-md-8">
+            <div class="row logform">
+              <div class="col-xs-6">
+                <a href="https://www.wisatavilla.xyz/" target="_blank" rel="nofollow noreferrer">
+                  <span class="tron-login">LOGIN</span>
+                </a>
+              </div>
+              <div class="col-xs-6">
+                <a href="https://www.wisatavilla.xyz/" target="_blank" rel="nofollow noreferrer">
+                  <span class="tron-regis">DAFTAR</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="spacer"></div>
+      <div class="container">
+        <div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
+          <amp-img src="https://i.ibb.co/gVtNBFx/bannergaming2023.webp" width="1290" height="309" layout="responsive" alt="Situs Mesa168 gaming Terpercaya">
+          </amp-img>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div class="container">
+        <div class="table">
+          <table class="seo-Mesa168" style="width:100%">
+            <thead>
+              <tr>
+                <th colspan="3">MESA168 DAFTAR PENGHARGAAN GAME OF THE YEAR</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="padding: 10px;">Nama Situs</td>
+                <td style="padding: 10px;">
+                  <a href="#" title="Mesa168 gaming" rel="nofollow noopener" target="_blank">Mesa168</a>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Jenis Permainan</td>
+                <td style="padding: 10px;">
+                  <a href="#" title="Gaming Online">Gaming Online, Playstation, Final Fantasy XVI, PS5 EA SPORTS, Marvel Spider-Man 2.</a>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Minimal Top Up</td>
+                <td style="padding: 10px;">Rp. 10.000</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Metode Top Up</td>
+                <td style="padding: 10px;">PayPal, Bitcoin, QRIS, Transfer Bank & E-Wallet</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Mata Uang</td>
+                <td style="padding: 10px;">IDR (Indonesian Rupiah)</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Jam Operasional</td>
+                <td style="padding: 10px;">24 Jam Online</td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Daftar Sekarang</td>
+                <td style="padding: 10px;">
+                  <span style="color: #ffffff;">
+                    <a style="color: #ffffff;" title="Klik Daftar Mesa168 gaming" href="https://slebew.bio/" target="_blank" rel="nofollow noopener">TEKAN SEKARANG</a>
+                  </span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <br>
+      <div class="bottom bg-dark">
+        <div class="container">
+          <div class="row mb-3" style="background-color: #020202;">
+            <div class="col-md-12 pb-5">
+              <div class="site-description">
+                <p id="breadcrumbs">
+                  <span>
+                    <span>
+                      <a href="#">Home</a> >> <a href="#">Mesa168</a> >> <strong class="breadcrumb_last" aria-current="page">Mesa168 Daftar penghargaan Game of the Year</strong>
+                    </span>
+                  </span>
+                </p>
+                <hr>
+				
+				<h1 style="text-align: center;" itemprop="headline">
+         Mesa168 Daftar penghargaan Game of the Year
+    </h1>
+<p style="text-align: justify;"><a href="#">Game of the Year ( GoTY ) merupakan penghargaan yang diberikan kepada sebuah video game oleh berbagai ajang penghargaan dan publikasi media yang mereka rasa mewakili puncak gaming pada tahun tersebut. Pilihan Gaming Terlengkap Mesa168, Original, Harga Terbaik. Beli Gaming terbaik hanya di Mesa168.
+Kumpulan Berita Gaming Mesa168 Indonesia meluncurkan inovasi laptop terbarunya melengkapi lini produk gaming,
+Pemenang Penghargaan Utama yang diberikan setiap tahun oleh Japan Game Awards , yang sebelumnya dikenal sebagai Mesa168 Awards, sejak tahun 1996. 
+Ada beberapa tahun di mana dua game berbagi Penghargaan Utama.</p>
+
+<p style="text-align: justify;">Top Up game & voucher Mesa168. Metode pembayaran lengkap, dijamin aman, garansi uang kembali 10x lipat, instant proses, terpercaya dan legal 100%. Buat para buyer, seller, dan sultan-sultan di luar sana pastikan belanja dan jualan top up game dan voucher mu di Mesa168. Tersedia bermacam-macam jenis game populer, Steam Wallet dan berbagai game lainnya yang tidak kalah seru untuk dimainkan
+</p>
+
+<h2>Top Up Game Online dan Beli Voucher Game Online Terbaru dan Murah di Mesa168</h2>
+<p style="text-align: justify;">Permainan Gaming online lewat penampakan telepon seluler sekarang tengah populer dan laku. Kemajuan tehnologi sekarang memungkinnya untuk tingkatkan penampakan Gaming Online populer versus gadget. Ini nyaris sama dengan versus PC desktop dalam soal fungsionalitas. Anda bisa memakai Gaming ini untuk memberikan kepuasan kegemaran atau kehidupan keseharian Anda.</p>
+
+<p style="text-align: justify;">Top Up game & voucher Mesa168.com. Metode pembayaran lengkap, dijamin aman, garansi uang kembali 10x lipat, instant proses, terpercaya dan legal 100%. Buat para buyer, seller, dan sultan-sultan di luar sana pastikan belanja dan jualan top up game dan voucher mu di Mesa168.com. Tersedia bermacam-macam jenis game populer seperti Mobile Legends, PUBG Mobile, Valorant, Free Fire, Ragnarok, Dragon Raja, Light Of Thel, Steam Wallet dan berbagai game lainnya yang tidak kalah seru untuk dimainkan.
+Mengapa Top Up dan Beli Voucher di Mesa168?</p>
+	  
+  <h2 itemprop="headline">
+                    <strong>
+                      <span style="color: #ffffff;">Mesa168 menjadi destinasi toko top up game yang paling dipilih para gamers.</span></strong></h2>
+					  
+<p style="text-align: justify;">Mesa168 menjadi destinasi toko top up game yang paling dipilih para gamers untuk melakukan top up dan pembelian voucher game karena berbagai alasan penting. Pertama, banyaknya kategori game yang tersedia di Mesa168 memungkinkan gamer untuk menemukan dan melakukan top up pada berbagai jenis game. Anda bisa top up ML, top up FF, top up PUBG, top up Ragnarok Origin, top up Steam Wallet, dan masih banyak lagi.</p>
+
+<p style="text-align: justify;">Tak hanya itu, Mesa168 menawarkan kemudahan dan kenyamanan dalam melakukan transaksi, berkat sistem pembayaran yang aman dan beragam metode pembayaran yang ditawarkan. Kecepatan transaksi juga menjadi nilai plus dari Mesa168, di mana setelah pembayaran berhasil, saldo atau voucher game akan langsung masuk ke akun game, memungkinkan gamer untuk segera menikmati fitur atau item baru di game mereka.</p>
+
+<p style="text-align: justify;">Selain itu, Mesa168 juga menawarkan harga yang sangat kompetitif. Dengan adanya berbagai penawaran dan promosi jaminan garansi 10x lipat uang kembali, gamer dapat melakukan top up atau membeli voucher dengan aman, nyaman dan termurah. Ini tentu saja sangat menguntungkan, terutama bagi gamer yang rutin melakukan top up atau membeli voucher. Dengan berbagai kemudahan dan keuntungan yang ditawarkan oleh Mesa168, tidak heran jika platform ini menjadi tempat top up game dan membeli voucher game pilihan utama para gamers.
+Keuntungan Top Up dan Beli Voucher di Mesa168, Sehingga Mesa168 dinobatkan sebagai situs Gaming online terlengkap nomor 1 di Indonesia.</p>
+  
+	 <h2 itemprop="headline">
+                    <strong>
+                      <span style="color: #ffffff;">Link Mesa168 Gaming Online Terbaik dan Terpopuler di Indonesia</span></strong></h2>
+
+<p style="text-align: justify;">Keuntungan melakukan top up dan membeli voucher di Mesa168 cukup banyak dan bisa meningkatkan pengalaman bermain game Anda. Berikut adalah keuntungan top up dan beli voucher di Mesa168 :</p>
+
+ <div class="first_footer_sec">
+<ol>
+    <li>Tempat top up dan beli voucher termurah se-Indonesia</li>
+    <li>Banyak pilihan dalam metode pembayaran</li>
+    <li>Terlengkap lebih dari 100 game yang hadir di Mesa168</li>
+    <li>Proses transaksi cepat dan mudah</li>
+	<li>100% aman, terpercaya, garansi uang kembali 10x lipat dan pembayaran mudah</li>
+    <li>Harga terbaik se-Indonesia</li>
+	<li>Pelayanan pelanggan cepat dan responsif</li>
+	<li>Banyak penawaran dan promo yang menarik</li>
+</ol>	  
+ </div>	  
+
+<h2 itemprop="headline">
+                    <strong>
+                      <span style="color: #ffffff;">Cara Top Up dan Beli Voucher di Mesa168</span></strong></h2>
+
+<p style="text-align: justify;">Untuk melakukan top up atau membeli voucher di Mesa168, Anda perlu mengikuti beberapa langkah mudah. Berikut adalah cara top up dan beli voucher di Mesa168 :
+</p>
+
+<table style="width: 100%; border-collapse: collapse; color: #f69c00; margin: 18px auto 18px auto;" border="1">
+<tbody>
+<tr bgcolor="#2f2f2f">
+    <td style="padding: 5px;">
+        <strong>Min Top Up</strong>
+    </td>
+    <td style="padding: 5px; color: #c9c9c9;">💰 Rp10.000,-</td>
+</tr>
+<tr bgcolor="#2f2f2f">
+    <td style="padding: 5px;">
+        <strong>Jenis  Online</strong>
+    </td>
+    <td style="padding: 5px; color: #c9c9c9;">🎰 Gaming populer, 🃏 Playstation, ⚽️ Final Fantasy XVI, 🎲 PS5 EA SPORTS , Marvel Spider-Man 2.</td>
+</tr>
+<tr bgcolor="#2f2f2f">
+    <td style="padding: 5px;">
+        <strong>Sistem Top Up</strong>
+    </td>
+    <td style="padding: 5px; color: #c9c9c9;">✅ Pulsa, ✅ Bank, ✅ E-Wallet (TANPA POTONGAN)</td>
+</tr>
+<tr bgcolor="#2f2f2f">
+    <td style="padding: 5px;">
+        <strong>Promo Mesa168</strong>
+    </td>
+    <td style="padding: 5px; color: #c9c9c9;">⚡ 99.99%</td>
+</tr>
+</tbody>
+</table>
+<h2 itemprop="headline">
+                    <strong>
+                      <span style="color: #ffffff;">Cara Top Up dan Beli Voucher di Mesa168</span></strong></h2>
+
+<p style="text-align: justify;">Untuk melakukan top up atau membeli voucher di Mesa168, Anda perlu mengikuti beberapa langkah mudah. Berikut adalah cara top up dan beli voucher di Mesa168 :
+</p>
+
+<ol>
+    <li><h3 style="text-align: justify;">Masuk ke situs atau website Mesa168</h3></li>
+	<li><h3 style="text-align: justify;">Pilih game atau produk yang ingin di top up</h3></li>
+	<li><h3 style="text-align: justify;">Lalu masukan detail dari game atau produk yang dipilih</h3></li>
+	<li><h3 style="text-align: justify;">Pilih jumlah dan paket yang ingin di top up</h3></li>
+	<li><h3 style="text-align: justify;"> Pilih metode pembayaran (terdapat berbagai macam tipe pembayaran seperti Virtual Account (VA BCA, Mandiri, BRI, BNI, Permata, CIMB Niaga, Danamon, Maybank, Neo Commerce, BSI, BJB), Bank Transfer BCA, Gerai Alfamart, ATM Bersama, E-Wallet dan QRIS (Dana, Gopay, Ovo, QRIS, ShopeePay, LinkAja)
+    </h3></li>
+	<li><h3 style="text-align: justify;">Masukan kode promo (opsional)</h3></li>
+	<li><h3 style="text-align: justify;">Lalu klik “Beli Sekarang” dan Anda akan mendapatkan kode pembayaran (segera lakukan pembayaran sesuai dengan metode yang dipilih)</h3></li>
+	<li><h3 style="text-align: justify;">Setelah melakukan pembayaran, Anda akan mendapatkan detail transaksi yang dikirimkan ke akun atau email Anda.</h3></li>
+
+</ol>
+
+<h2 itemprop="headline">
+                    <strong>
+                      FAQ - Pertanyaan Umum Perihal Top Up Game Termurah Hanya di Mesa168</strong></h2>
+
+                        <h4 style="color:#FFE600;">Apa itu Top Up Game Termurah?</h4>
+                        <p style="text-align: justify;">Jika Anda sedang mencari tempat untuk melakukan top up game dengan harga termurah, maka Mesa168 adalah jawabannya. Platform ini menawarkan berbagai jenis top up game dari berbagai genre dan platform dengan harga yang sangat kompetitif. Kunci dari harga murah ini adalah kerjasama langsung antara Mesa168 dengan berbagai pengembang dan publisher game, yang memungkinkan mereka menawarkan harga lebih rendah dibandingkan pasar umum. Oleh karena itu, Anda bisa mendapatkan lebih banyak kredit game dengan harga yang sama, atau bahkan lebih murah.</p>
+						
+                        <h4 style="color:#FFE600;">Apa itu Promo live Gaming dan mengapa itu penting? </h4>
+                        <p style="text-align: justify;">Selain itu, Mesa168 juga sering mengadakan berbagai penawaran dan promosi, baik untuk perayaan tertentu atau hanya untuk memberikan nilai lebih kepada para penggunanya. Dengan adanya promo ini, Anda bisa mendapatkan top up game dengan harga yang jauh lebih murah. Apalagi, Mesa168 juga memberikan poin reward setiap kali Anda melakukan transaksi dan jaminan garansi 10x lipat uang kembali. Dengan demikian, top up game di Mesa168 tidak hanya murah, tetapi juga memberikan banyak keuntungan, kenyamanan, dan keamanan.</p>
+
+                        <h4 style="color:#FFE600;">Apa Itu Top Up Game? </h4>
+                        <p style="text-align: justify;">Top up game adalah istilah yang biasa digunakan dalam dunia gaming untuk merujuk pada proses pengisian ulang atau pembelian kredit virtual dalam sebuah game. Kredit ini biasa digunakan untuk membeli berbagai item virtual di dalam game, seperti karakter, kostum, senjata, power-ups, dan lainnya. Dengan melakukan top up, pemain bisa mendapatkan akses ke berbagai fitur atau item premium yang tidak bisa diperoleh hanya dengan bermain game secara normal.</p>
+                        
+						<h4 style="color:#FFE600;">Apa Itu Voucher Game?</h4>
+                        <p style="text-align: justify;">Voucher game adalah alat tukar yang dapat digunakan untuk membeli barang atau layanan di dalam sebuah game. Dalam bentuk paling sederhana, voucher game berfungsi seperti uang dalam dunia nyata, memungkinkan pemain untuk memperoleh item, fitur, atau layanan premium dalam game. Voucher game biasanya dibeli dengan uang nyata, baik langsung melalui platform game, melalui platform pihak ketiga seperti Mesa168, atau melalui pembelian fisik di toko-toko ritel.</p>
+                        <p style="text-align: justify;">Voucher game biasanya tersedia dalam berbagai denominasi, memberikan fleksibilitas kepada pemain dalam memilih berapa banyak yang mereka ingin belanjakan. Setelah dibeli, voucher game bisa ditukarkan dalam game untuk mendapatkan mata uang virtual, item, atau layanan tertentu. Fungsinya mirip dengan melakukan top up, tetapi dalam hal ini, voucher game memberikan lebih banyak fleksibilitas dan kemudahan dalam penggunaannya, karena pemain bisa membeli voucher terlebih dahulu dan menggunakannya kapan saja mereka mau, atau bahkan memberikannya sebagai hadiah kepada orang lain</p>
+
+                   <h3 itemprop="headline" style="text-align: left; color:#962f23;">Keywords Terkait :</h3>
+                    <div class="footer_area">
+                      <div class="first_footer_sec">
+                        <span class="footer_span">Mesa168</span>
+                        <span class="footer_span">Mesa168 Promo</span>
+                        <span class="footer_span">Mesa168 login</span>
+                        <span class="footer_span">Mesa168 Voucher game</span>
+                        <span class="footer_span">Mesa168 Gaming login</span>
+                        <span class="footer_span">Mesa168 info</span>
+                        <span class="footer_span">Mesa168 link alternatif</span>
+                        <span class="footer_span">Mesa168 demo</span>
+                        <span class="footer_span">Promo Mesa168 hari ini</span>
+                        <span class="footer_span">link Mesa168</span>
+                        <span class="footer_span">Mesa168 Gaming online</span>
+                        <span class="footer_span">Mesa168</span>
+                        <span class="footer_span">link alternatif Mesa168</span>
+                        <span class="footer_span">Promo Mesa168</span>
+                        <span class="footer_span">alternatif Mesa168</span>
+                        <span class="footer_span">daftar Mesa168</span>
+                        <span class="footer_span">Mesa168 alternatif</span>
+                        <span class="footer_span">agen Mesa168</span>
+                        <span class="footer_span">cara Top Up Mesa168</span>
+                        <span class="footer_span">Mesa168 Top Up pulsa</span>
+                        <span class="footer_span">Mesa168 daftar</span>
+                        <span class="footer_span">Promo live Mesa168</span>
+                        <span class="footer_span">login Mesa168 gaming</span>
+                        <span class="footer_span">Mesa168 mobile</span>
+                        <span class="footer_span">Mesa168 pragmatic</span>
+                        <span class="footer_span">Promo Mesa168 gaming</span>
+                        <span class="footer_span">Mesa168 gaming</span>
+                        <span class="footer_span">Mesa168 bet</span>
+                      </div>
+                    </div>
+                    <div class="footer_area">
+                      <div class="first_footer_sec">
+                        <div>
+                          <span class="footer_span">Info Mesa168</span>
+                          <span><a href="https://slebew.bio/">Mesa168</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 Promo termurah</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 login</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 gaming online</a></span>
+                          <span><a href="https://slebew.bio/">Gaming online 2023</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 info</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 gaming link alternatif</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 demo</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 Voucher game</a></span>
+                          <span><a href="https://slebew.bio/">Info Mesa168 Gaming populer</a></span>
+                        </div>
+                        <div>
+                          <span class="footer_span">Daftar Mesa168</span>
+                          <span><a href="https://slebew.bio/">Promo Mesa168 hari ini</a></span>
+                          <span><a href="https://slebew.bio/">Link Mesa168</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 Gaming online</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 gaming</a></span>
+                          <span><a href="https://slebew.bio/">link alternatif Mesa168</a></span>
+                          <span><a href="https://slebew.bio/">Promo Mesa168 gaming</a></span>
+                          <span><a href="https://slebew.bio/">alternatif Mesa168</a></span>
+                          <span><a href="https://slebew.bio/">daftar Mesa168</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 gaming aman</a></span>
+                        </div>
+                        <div>
+                          <span class="footer_span">Link Mesa168</span>
+                          <span><a href="https://slebew.bio/">Mesa168 alternatif</a></span>
+                          <span><a href="https://slebew.bio/">Agen Mesa168</a></span>
+                          <span><a href="https://slebew.bio/">cara top up Mesa168</a</span>
+                          <span><a href="https://slebew.bio/">Mesa168 gaming top up pulsa</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 daftar</a></span>
+                          <span><a href="https://slebew.bio/">Promo live Mesa168</a></span>
+                          <span><a href="https://slebew.bio/">Login Mesa168 gaming</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 mobile</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 populer 2023</a></span>
+                        </div>
+                        <div>
+                          <span class="footer_span">Mesa168 Togel</span>
+                          <span><a href="https://slebew.bio/">Info Mesa168 populer</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 jamin aman</a></span>
+                          <span><a href="https://slebew.bio/">Info Promo Mesa168</a></span>
+                          <span><a href="https://slebew.bio/">Voucher Mesa168</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 aman 2023</a></span>
+                          <span><a href="https://slebew.bio/">Mesa168 Top Up game</a></span>
+                          <span><a href="https://slebew.bio/">Agen Mesa168 populer</a></span>
+                          <span><a href="https://slebew.bio/">Situs Mesa168 2023</a></span>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+				<div class="spacer"></div>
+                <div class="container">
+                  <div class="container text-center" style="color: #ab0000;"> © Copyright 2023 <a href="https://slebew.bio/">Situs Mesa168</a> All Rights Reserved
+                  </div>
+                </div>
+                <div class="spacer"></div>
+                <div class="spacer"></div>
+                <div class="spacer"></div>
+                <div class="fixed-footer"><a href="https://slebew.bio/" rel="nofollow noopener" target="_top">
+                    <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/SRZ9mnS/PromoGaming.gif" alt="Promo Mesa168 Gaming" class="center"></amp-img>Promo Gaming
+                  </a><a href="https://direct.lc.chat/14531859/" rel="nofollow noopener" target="_top" class="tada">
+                    <amp-img class="center " layout="intrinsic" height="50" width="50" src="https://i.ibb.co/hsGN8y3/images.png" alt="Daftar Mesa168 Gaming"></amp-img>Daftar
+                  </a><a href="https://www.wisatavilla.xyz/" rel="nofollow noopener" target="_top">
+                    <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/VqMPr3r/whatsapp.png" alt="whatsapp Mesa168 Gaming" class="center"></amp-img>Whatsapp
+                  </a><a href="https://www.wisatavilla.xyz/" rel="nofollow noopener" target="_top" class="js_live_chat_link live-chat-link">
+                    <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://i.ibb.co/6J9xGm7/live-chat.png" alt="Live Chat Mesa168 Gaming"></amp-img>Live Chat
+                  </a></div>
+  </body>
 </html>

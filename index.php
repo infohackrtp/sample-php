@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Mesa168 Daftar penghargaan Game of the Year</title>
 	
-    <meta name="description" content="Mesa168: Situs Mesa168 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Mesa168 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai."/>
-    <meta name="keywords" content="Mesa168, Mesa168 gaming, Mesa168 Gaming, Gaming populer Mesa168, daftar Mesa168, Mesa168 gaming terbaru, Mesa168 gaming populer, situs Mesa168, agen Mesa168, hoki Gaming populer, Mesa168 Gaming populer, Mesa168 gaming terbaru"/>
+    <meta name="description" content="Mesa168"/>
+    <meta name="keywords" content="Mesa168, Mesa168 gaming"/>
     <link itemprop="mainEntityOfPage" rel="canonical" href="https://slebew.bio/"/>
     <meta name="robots" content="index, follow"/>
     <meta name="page-locale" content="id,en">
@@ -18,21 +18,17 @@
     <link rel="preload" as="image" href="https://i.ibb.co/gVtNBFx/bannergaming2023.webp"/>
     <meta name="supported-amp-formats" content="websites,stories,ads,email">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Mesa168 Daftar penghargaan Game of the Year">
-    <meta name="twitter:description" content="Mesa168: Situs Mesa168 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Mesa168 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai.">
+    <meta name="twitter:title" content="Mesa168">
+    <meta name="twitter:description" content="Mesa168 Daftar penghargaan Game of the Year">
     <meta name="twitter:image:src" content="https://i.ibb.co/gVtNBFx/bannergaming2023.webp">
-    <meta name="og:title" content="Mesa168 Daftar penghargaan Game of the Yearg">
-    <meta name="og:description" content="Mesa168: Situs Mesa168 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Mesa168 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai.">
-    <meta name="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Roboto_Font_Sample.svg/1200px-Roboto_Font_Sample.svg.png">
+    <meta name="og:title" content="Mesa168">
+    <meta name="og:description" content="Mesa168 Daftar penghargaan Game of the Year">
     <meta property="og:image:width" content="600">
     <meta property="og:image:height" content="466">
     <meta name="og:url" content=https://slebew.bio/">
     <meta name="og:site_name" content="Mesa168">
-    <meta name="og:locale" content="ID_id">
     <meta name="og:type" content="website">
-    <meta name="geo.placename" content="DKI Jakarta">
     <meta name="geo.country" content="ID">
-    <meta name="geo.region" content="ID"/>
     <meta name="tgn.nation" content="Indonesia">
     <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/x5yTRxz/485567845867.jpg"/>
     <link href='https://i.ibb.co/x5yTRxz/485567845867.jpg' rel='icon' sizes='32x32' type='image/png'/>
@@ -1955,316 +1951,31 @@
               </span>
             </div>
           </div>
-
-          <div class="col-md-8">
-            <div class="row logform">
-              <div class="col-xs-6">
-                <a href="https://www.wisatavilla.xyz/" target="_blank" rel="nofollow noreferrer">
-                  <span class="tron-login">LOGIN</span>
-                </a>
-              </div>
-              <div class="col-xs-6">
-                <a href="https://www.wisatavilla.xyz/" target="_blank" rel="nofollow noreferrer">
-                  <span class="tron-regis">DAFTAR</span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="spacer"></div>
+		  <div class="spacer"></div>
       <div class="container">
         <div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
           <amp-img src="https://i.ibb.co/gVtNBFx/bannergaming2023.webp" width="1290" height="309" layout="responsive" alt="Situs Mesa168 gaming Terpercaya">
           </amp-img>
         </div>
       </div>
-      <div class="clear"></div>
-      <div class="container">
-        <div class="table">
-          <table class="seo-Mesa168" style="width:100%">
-            <thead>
-              <tr>
-                <th colspan="3">MESA168 DAFTAR PENGHARGAAN GAME OF THE YEAR</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td style="padding: 10px;">Nama Situs</td>
-                <td style="padding: 10px;">
-                  <a href="#" title="Mesa168 gaming" rel="nofollow noopener" target="_blank">Mesa168</a>
-                </td>
-              </tr>
-              <tr>
-                <td style="padding: 10px;">Jenis Permainan</td>
-                <td style="padding: 10px;">
-                  <a href="#" title="Gaming Online">Gaming Online, Playstation, Final Fantasy XVI, PS5 EA SPORTS, Marvel Spider-Man 2.</a>
-                </td>
-              </tr>
-              <tr>
-                <td style="padding: 10px;">Minimal Top Up</td>
-                <td style="padding: 10px;">Rp. 10.000</td>
-              </tr>
-              <tr>
-                <td style="padding: 10px;">Metode Top Up</td>
-                <td style="padding: 10px;">PayPal, Bitcoin, QRIS, Transfer Bank & E-Wallet</td>
-              </tr>
-              <tr>
-                <td style="padding: 10px;">Mata Uang</td>
-                <td style="padding: 10px;">IDR (Indonesian Rupiah)</td>
-              </tr>
-              <tr>
-                <td style="padding: 10px;">Jam Operasional</td>
-                <td style="padding: 10px;">24 Jam Online</td>
-              </tr>
-              <tr>
-                <td style="padding: 10px;">Daftar Sekarang</td>
-                <td style="padding: 10px;">
-                  <span style="color: #ffffff;">
-                    <a style="color: #ffffff;" title="Klik Daftar Mesa168 gaming" href="https://slebew.bio/" target="_blank" rel="nofollow noopener">TEKAN SEKARANG</a>
-                  </span>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-      <br>
-      <div class="bottom bg-dark">
-        <div class="container">
-          <div class="row mb-3" style="background-color: #020202;">
-            <div class="col-md-12 pb-5">
-              <div class="site-description">
-                <p id="breadcrumbs">
-                  <span>
-                    <span>
-                      <a href="#">Home</a> >> <a href="#">Mesa168</a> >> <strong class="breadcrumb_last" aria-current="page">Mesa168 Daftar penghargaan Game of the Year</strong>
-                    </span>
-                  </span>
-                </p>
-                <hr>
-				
-				<h1 style="text-align: center;" itemprop="headline">
+				 				<h1 style="text-align: center;" itemprop="headline">
          Mesa168 Daftar penghargaan Game of the Year
     </h1>
-<p style="text-align: justify;"><a href="#">Game of the Year ( GoTY ) merupakan penghargaan yang diberikan kepada sebuah video game oleh berbagai ajang penghargaan dan publikasi media yang mereka rasa mewakili puncak gaming pada tahun tersebut. Pilihan Gaming Terlengkap Mesa168, Original, Harga Terbaik. Beli Gaming terbaik hanya di Mesa168.
-Kumpulan Berita Gaming Mesa168 Indonesia meluncurkan inovasi laptop terbarunya melengkapi lini produk gaming,
-Pemenang Penghargaan Utama yang diberikan setiap tahun oleh Japan Game Awards , yang sebelumnya dikenal sebagai Mesa168 Awards, sejak tahun 1996. 
-Ada beberapa tahun di mana dua game berbagi Penghargaan Utama.</p>
-
-<p style="text-align: justify;">Top Up game & voucher Mesa168. Metode pembayaran lengkap, dijamin aman, garansi uang kembali 10x lipat, instant proses, terpercaya dan legal 100%. Buat para buyer, seller, dan sultan-sultan di luar sana pastikan belanja dan jualan top up game dan voucher mu di Mesa168. Tersedia bermacam-macam jenis game populer, Steam Wallet dan berbagai game lainnya yang tidak kalah seru untuk dimainkan
-</p>
-
-<h2>Top Up Game Online dan Beli Voucher Game Online Terbaru dan Murah di Mesa168</h2>
-<p style="text-align: justify;">Permainan Gaming online lewat penampakan telepon seluler sekarang tengah populer dan laku. Kemajuan tehnologi sekarang memungkinnya untuk tingkatkan penampakan Gaming Online populer versus gadget. Ini nyaris sama dengan versus PC desktop dalam soal fungsionalitas. Anda bisa memakai Gaming ini untuk memberikan kepuasan kegemaran atau kehidupan keseharian Anda.</p>
-
-<p style="text-align: justify;">Top Up game & voucher mesa168. Metode pembayaran lengkap, dijamin aman, garansi uang kembali 10x lipat, instant proses, terpercaya dan legal 100%. Buat para buyer, seller, dan sultan-sultan di luar sana pastikan belanja dan jualan top up game dan voucher mu di mesa168. Tersedia bermacam-macam jenis game populer seperti Mobile Legends, PUBG Mobile, Valorant, Free Fire, Ragnarok, Dragon Raja, Light Of Thel, Steam Wallet dan berbagai game lainnya yang tidak kalah seru untuk dimainkan.
-Mengapa Top Up dan Beli Voucher di Mesa168?</p>
-	  
-  <h2 itemprop="headline">
-                    <strong>
-                      <span style="color: #ffffff;">Mesa168 menjadi destinasi toko top up game yang paling dipilih para gamers.</span></strong></h2>
-					  
-<p style="text-align: justify;">Mesa168 menjadi destinasi toko top up game yang paling dipilih para gamers untuk melakukan top up dan pembelian voucher game karena berbagai alasan penting. Pertama, banyaknya kategori game yang tersedia di Mesa168 memungkinkan gamer untuk menemukan dan melakukan top up pada berbagai jenis game. Anda bisa top up ML, top up FF, top up PUBG, top up Ragnarok Origin, top up Steam Wallet, dan masih banyak lagi.</p>
-
-<p style="text-align: justify;">Tak hanya itu, Mesa168 menawarkan kemudahan dan kenyamanan dalam melakukan transaksi, berkat sistem pembayaran yang aman dan beragam metode pembayaran yang ditawarkan. Kecepatan transaksi juga menjadi nilai plus dari Mesa168, di mana setelah pembayaran berhasil, saldo atau voucher game akan langsung masuk ke akun game, memungkinkan gamer untuk segera menikmati fitur atau item baru di game mereka.</p>
-
-<p style="text-align: justify;">Selain itu, Mesa168 juga menawarkan harga yang sangat kompetitif. Dengan adanya berbagai penawaran dan promosi jaminan garansi 10x lipat uang kembali, gamer dapat melakukan top up atau membeli voucher dengan aman, nyaman dan termurah. Ini tentu saja sangat menguntungkan, terutama bagi gamer yang rutin melakukan top up atau membeli voucher. Dengan berbagai kemudahan dan keuntungan yang ditawarkan oleh Mesa168, tidak heran jika platform ini menjadi tempat top up game dan membeli voucher game pilihan utama para gamers.
-Keuntungan Top Up dan Beli Voucher di Mesa168, Sehingga Mesa168 dinobatkan sebagai situs Gaming online terlengkap nomor 1 di Indonesia.</p>
-  
-	 <h2 itemprop="headline">
-                    <strong>
-                      <span style="color: #ffffff;">Link Mesa168 Gaming Online Terbaik dan Terpopuler di Indonesia</span></strong></h2>
-
-<p style="text-align: justify;">Keuntungan melakukan top up dan membeli voucher di Mesa168 cukup banyak dan bisa meningkatkan pengalaman bermain game Anda. Berikut adalah keuntungan top up dan beli voucher di Mesa168 :</p>
-
- <div class="first_footer_sec">
-<ol>
-    <li>Tempat top up dan beli voucher termurah se-Indonesia</li>
-    <li>Banyak pilihan dalam metode pembayaran</li>
-    <li>Terlengkap lebih dari 100 game yang hadir di Mesa168</li>
-    <li>Proses transaksi cepat dan mudah</li>
-	<li>100% aman, terpercaya, garansi uang kembali 10x lipat dan pembayaran mudah</li>
-    <li>Harga terbaik se-Indonesia</li>
-	<li>Pelayanan pelanggan cepat dan responsif</li>
-	<li>Banyak penawaran dan promo yang menarik</li>
-</ol>	  
- </div>	  
-
-<h2 itemprop="headline">
-                    <strong>
-                      <span style="color: #ffffff;">Cara Top Up dan Beli Voucher di Mesa168</span></strong></h2>
-
-<p style="text-align: justify;">Untuk melakukan top up atau membeli voucher di Mesa168, Anda perlu mengikuti beberapa langkah mudah. Berikut adalah cara top up dan beli voucher di Mesa168 :
-</p>
-
-<table style="width: 100%; border-collapse: collapse; color: #f69c00; margin: 18px auto 18px auto;" border="1">
-<tbody>
-<tr bgcolor="#2f2f2f">
-    <td style="padding: 5px;">
-        <strong>Min Top Up</strong>
-    </td>
-    <td style="padding: 5px; color: #c9c9c9;">💰 Rp10.000,-</td>
-</tr>
-<tr bgcolor="#2f2f2f">
-    <td style="padding: 5px;">
-        <strong>Jenis  Online</strong>
-    </td>
-    <td style="padding: 5px; color: #c9c9c9;">🎰 Gaming populer, 🃏 Playstation, ⚽️ Final Fantasy XVI, 🎲 PS5 EA SPORTS , Marvel Spider-Man 2.</td>
-</tr>
-<tr bgcolor="#2f2f2f">
-    <td style="padding: 5px;">
-        <strong>Sistem Top Up</strong>
-    </td>
-    <td style="padding: 5px; color: #c9c9c9;">✅ Pulsa, ✅ Bank, ✅ E-Wallet (TANPA POTONGAN)</td>
-</tr>
-<tr bgcolor="#2f2f2f">
-    <td style="padding: 5px;">
-        <strong>Promo Mesa168</strong>
-    </td>
-    <td style="padding: 5px; color: #c9c9c9;">⚡ 99.99%</td>
-</tr>
-</tbody>
-</table>
-<h2 itemprop="headline">
-                    <strong>
-                      <span style="color: #ffffff;">Cara Top Up dan Beli Voucher di Mesa168</span></strong></h2>
-
-<p style="text-align: justify;">Untuk melakukan top up atau membeli voucher di Mesa168, Anda perlu mengikuti beberapa langkah mudah. Berikut adalah cara top up dan beli voucher di Mesa168 :
-</p>
-
-<ol>
-    <li><h3 style="text-align: justify;">Masuk ke situs atau website Mesa168</h3></li>
-	<li><h3 style="text-align: justify;">Pilih game atau produk yang ingin di top up</h3></li>
-	<li><h3 style="text-align: justify;">Lalu masukan detail dari game atau produk yang dipilih</h3></li>
-	<li><h3 style="text-align: justify;">Pilih jumlah dan paket yang ingin di top up</h3></li>
-	<li><h3 style="text-align: justify;"> Pilih metode pembayaran (terdapat berbagai macam tipe pembayaran seperti Virtual Account (VA BCA, Mandiri, BRI, BNI, Permata, CIMB Niaga, Danamon, Maybank, Neo Commerce, BSI, BJB), Bank Transfer BCA, Gerai Alfamart, ATM Bersama, E-Wallet dan QRIS (Dana, Gopay, Ovo, QRIS, ShopeePay, LinkAja)
-    </h3></li>
-	<li><h3 style="text-align: justify;">Masukan kode promo (opsional)</h3></li>
-	<li><h3 style="text-align: justify;">Lalu klik “Beli Sekarang” dan Anda akan mendapatkan kode pembayaran (segera lakukan pembayaran sesuai dengan metode yang dipilih)</h3></li>
-	<li><h3 style="text-align: justify;">Setelah melakukan pembayaran, Anda akan mendapatkan detail transaksi yang dikirimkan ke akun atau email Anda.</h3></li>
-
-</ol>
-
-<h2 itemprop="headline">
-                    <strong>
-                      FAQ - Pertanyaan Umum Perihal Top Up Game Termurah Hanya di Mesa168</strong></h2>
-
-                        <h4 style="color:#FFE600;">Apa itu Top Up Game Termurah?</h4>
-                        <p style="text-align: justify;">Jika Anda sedang mencari tempat untuk melakukan top up game dengan harga termurah, maka Mesa168 adalah jawabannya. Platform ini menawarkan berbagai jenis top up game dari berbagai genre dan platform dengan harga yang sangat kompetitif. Kunci dari harga murah ini adalah kerjasama langsung antara Mesa168 dengan berbagai pengembang dan publisher game, yang memungkinkan mereka menawarkan harga lebih rendah dibandingkan pasar umum. Oleh karena itu, Anda bisa mendapatkan lebih banyak kredit game dengan harga yang sama, atau bahkan lebih murah.</p>
-						
-                        <h4 style="color:#FFE600;">Apa itu Promo live Gaming dan mengapa itu penting? </h4>
-                        <p style="text-align: justify;">Selain itu, Mesa168 juga sering mengadakan berbagai penawaran dan promosi, baik untuk perayaan tertentu atau hanya untuk memberikan nilai lebih kepada para penggunanya. Dengan adanya promo ini, Anda bisa mendapatkan top up game dengan harga yang jauh lebih murah. Apalagi, Mesa168 juga memberikan poin reward setiap kali Anda melakukan transaksi dan jaminan garansi 10x lipat uang kembali. Dengan demikian, top up game di Mesa168 tidak hanya murah, tetapi juga memberikan banyak keuntungan, kenyamanan, dan keamanan.</p>
-
-                        <h4 style="color:#FFE600;">Apa Itu Top Up Game? </h4>
-                        <p style="text-align: justify;">Top up game adalah istilah yang biasa digunakan dalam dunia gaming untuk merujuk pada proses pengisian ulang atau pembelian kredit virtual dalam sebuah game. Kredit ini biasa digunakan untuk membeli berbagai item virtual di dalam game, seperti karakter, kostum, senjata, power-ups, dan lainnya. Dengan melakukan top up, pemain bisa mendapatkan akses ke berbagai fitur atau item premium yang tidak bisa diperoleh hanya dengan bermain game secara normal.</p>
-                        
-						<h4 style="color:#FFE600;">Apa Itu Voucher Game?</h4>
-                        <p style="text-align: justify;">Voucher game adalah alat tukar yang dapat digunakan untuk membeli barang atau layanan di dalam sebuah game. Dalam bentuk paling sederhana, voucher game berfungsi seperti uang dalam dunia nyata, memungkinkan pemain untuk memperoleh item, fitur, atau layanan premium dalam game. Voucher game biasanya dibeli dengan uang nyata, baik langsung melalui platform game, melalui platform pihak ketiga seperti Mesa168, atau melalui pembelian fisik di toko-toko ritel.</p>
-                        <p style="text-align: justify;">Voucher game biasanya tersedia dalam berbagai denominasi, memberikan fleksibilitas kepada pemain dalam memilih berapa banyak yang mereka ingin belanjakan. Setelah dibeli, voucher game bisa ditukarkan dalam game untuk mendapatkan mata uang virtual, item, atau layanan tertentu. Fungsinya mirip dengan melakukan top up, tetapi dalam hal ini, voucher game memberikan lebih banyak fleksibilitas dan kemudahan dalam penggunaannya, karena pemain bisa membeli voucher terlebih dahulu dan menggunakannya kapan saja mereka mau, atau bahkan memberikannya sebagai hadiah kepada orang lain</p>
-
-                   <h3 itemprop="headline" style="text-align: left; color:#962f23;">Keywords Terkait :</h3>
-                    <div class="footer_area">
-                      <div class="first_footer_sec">
-                        <span class="footer_span">Mesa168</span>
-                        <span class="footer_span">Mesa168 Promo</span>
-                        <span class="footer_span">Mesa168 Promo</span>
-                        <span class="footer_span">Mesa168 login</span>
-                        <span class="footer_span">Mesa168 Voucher game</span>
-                        <span class="footer_span">Mesa168 Gaming login</span>
-                        <span class="footer_span">Mesa168 info</span>
-                        <span class="footer_span">Mesa168 link alternatif</span>
-                        <span class="footer_span">Mesa168 demo</span>
-                        <span class="footer_span">Promo Mesa168 hari ini</span>
-                        <span class="footer_span">link Mesa168</span>
-                        <span class="footer_span">Mesa168 Gaming online</span>
-                        <span class="footer_span">Mesa168</span>
-                        <span class="footer_span">link alternatif Mesa168</span>
-                        <span class="footer_span">Promo Mesa168</span>
-                        <span class="footer_span">alternatif Mesa168</span>
-                        <span class="footer_span">daftar Mesa168</span>
-                        <span class="footer_span">Mesa168 alternatif</span>
-                        <span class="footer_span">agen Mesa168</span>
-                        <span class="footer_span">cara Top Up Mesa168</span>
-                        <span class="footer_span">Mesa168 Top Up pulsa</span>
-                        <span class="footer_span">Mesa168 daftar</span>
-                        <span class="footer_span">Promo live Mesa168</span>
-                        <span class="footer_span">login Mesa168 gaming</span>
-                        <span class="footer_span">Mesa168 mobile</span>
-                        <span class="footer_span">Mesa168 pragmatic</span>
-                        <span class="footer_span">Promo Mesa168 gaming</span>
-                        <span class="footer_span">Mesa168 gaming</span>
-                        <span class="footer_span">Mesa168 bet</span>
-                      </div>
-                    </div>
-                    <div class="footer_area">
-                      <div class="first_footer_sec">
-                        <div>
-                          <span class="footer_span">Info Mesa168</span>
-                          <span><a href="https://slebew.bio/">Mesa168</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 Promo termurah</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 login</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 gaming online</a></span>
-                          <span><a href="https://slebew.bio/">Gaming online 2023</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 info</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 gaming link alternatif</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 demo</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 Voucher game</a></span>
-                          <span><a href="https://slebew.bio/">Info Mesa168 Gaming populer</a></span>
-                        </div>
-                        <div>
-                          <span class="footer_span">Daftar Mesa168</span>
-                          <span><a href="https://slebew.bio/">Promo Mesa168 hari ini</a></span>
-                          <span><a href="https://slebew.bio/">Link Mesa168</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 Gaming online</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 gaming</a></span>
-                          <span><a href="https://slebew.bio/">link alternatif Mesa168</a></span>
-                          <span><a href="https://slebew.bio/">Promo Mesa168 gaming</a></span>
-                          <span><a href="https://slebew.bio/">alternatif Mesa168</a></span>
-                          <span><a href="https://slebew.bio/">daftar Mesa168</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 gaming aman</a></span>
-                        </div>
-                        <div>
-                          <span class="footer_span">Link Mesa168</span>
-                          <span><a href="https://slebew.bio/">Mesa168 alternatif</a></span>
-                          <span><a href="https://slebew.bio/">Agen Mesa168</a></span>
-                          <span><a href="https://slebew.bio/">cara top up Mesa168</a</span>
-                          <span><a href="https://slebew.bio/">Mesa168 gaming top up pulsa</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 daftar</a></span>
-                          <span><a href="https://slebew.bio/">Promo live Mesa168</a></span>
-                          <span><a href="https://slebew.bio/">Login Mesa168 gaming</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 mobile</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 populer 2023</a></span>
-                        </div>
-                        <div>
-                          <span class="footer_span">Mesa168 Togel</span>
-                          <span><a href="https://slebew.bio/">Info Mesa168 populer</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 jamin aman</a></span>
-                          <span><a href="https://slebew.bio/">Info Promo Mesa168</a></span>
-                          <span><a href="https://slebew.bio/">Voucher Mesa168</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 aman 2023</a></span>
-                          <span><a href="https://slebew.bio/">Mesa168 Top Up game</a></span>
-                          <span><a href="https://slebew.bio/">Agen Mesa168 populer</a></span>
-                          <span><a href="https://slebew.bio/">Situs Mesa168 2023</a></span>
-                        </div>
-                      </div>
-                    </div>
-                </div>
-				<div class="spacer"></div>
-                <div class="container">
-                  <div class="container text-center" style="color: #ab0000;"> © Copyright 2023 <a href="https://slebew.bio/">Situs Mesa168</a> All Rights Reserved
-                  </div>
-                </div>
-                <div class="spacer"></div>
-                <div class="spacer"></div>
-                <div class="spacer"></div>
-                <div class="fixed-footer"><a href="https://slebew.bio/" rel="nofollow noopener" target="_top">
-                    <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/SRZ9mnS/PromoGaming.gif" alt="Promo Mesa168 Gaming" class="center"></amp-img>Promo Gaming
-                  </a><a href="https://direct.lc.chat/14531859/" rel="nofollow noopener" target="_top" class="tada">
-                    <amp-img class="center " layout="intrinsic" height="50" width="50" src="https://i.ibb.co/hsGN8y3/images.png" alt="Daftar Mesa168 Gaming"></amp-img>Daftar
-                  </a><a href="https://www.wisatavilla.xyz/" rel="nofollow noopener" target="_top">
-                    <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/VqMPr3r/whatsapp.png" alt="whatsapp Mesa168 Gaming" class="center"></amp-img>Whatsapp
-                  </a><a href="https://www.wisatavilla.xyz/" rel="nofollow noopener" target="_top" class="js_live_chat_link live-chat-link">
-                    <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://i.ibb.co/6J9xGm7/live-chat.png" alt="Live Chat Mesa168 Gaming"></amp-img>Live Chat
-                  </a></div>
+          <div class="col-md-8">
+            <div class="row logform">
+              <div class="col-xs-6">
+                <a href="https://www.wisatavilla.xyz/anjay" target="_blank" rel="nofollow noreferrer">
+                  <span class="tron-login">LOGIN</span>
+                </a>
+              </div>
+              <div class="col-xs-6">
+                <a href="https://www.wisatavilla.xyz/jancuk" target="_blank" rel="nofollow noreferrer">
+                  <span class="tron-regis">DAFTAR</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        
   </body>
 </html>

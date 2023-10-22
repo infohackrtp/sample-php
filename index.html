@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Mesa168 Daftar penghargaan Game of the Year</title>
+    <title>Mesa168 Electronic Sport Indonesia 2023</title>
 	
     <meta name="description" content="Mesa168"/>
     <meta name="keywords" content="Mesa168, Mesa168 gaming"/>
@@ -19,10 +19,10 @@
     <meta name="supported-amp-formats" content="websites,stories,ads,email">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Mesa168">
-    <meta name="twitter:description" content="Mesa168 Daftar penghargaan Game of the Year">
+    <meta name="twitter:description" content="Mesa168 Electronic Sport Indonesia 2023">
     <meta name="twitter:image:src" content="https://i.ibb.co/gVtNBFx/bannergaming2023.webp">
     <meta name="og:title" content="Mesa168">
-    <meta name="og:description" content="Mesa168 Daftar penghargaan Game of the Year">
+    <meta name="og:description" content="Mesa168 Electronic Sport Indonesia 2023">
     <meta property="og:image:width" content="600">
     <meta property="og:image:height" content="466">
     <meta name="og:url" content=https://slebew.bio/">
@@ -1861,7 +1861,7 @@
         "name": "Mesa168 gaming",
         "alternateName": "Mesa168 gaming",
         "url": "https://slebew.bio/",
-        "logo": "https://i.ibb.co/ZY305Vr/mesa168gaming.webp",
+        "logo": "https://i.ibb.co/H4q61D5/mesa168-logo.png",
         "sameAs": "https://slebew.bio/"
       }
     </script>
@@ -1873,7 +1873,7 @@
           "@type": "WebPage",
           "@id": "https://slebew.bio/"
         },
-        "headline": "Mesa168 Daftar penghargaan Game of the Year",
+        "headline": "Mesa168 Electronic Sport Indonesia 2023",
         "description": "Mesa168: Situs Mesa168 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Mesa168 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai.",
         "image": ["https://i.ibb.co/gVtNBFx/bannergaming2023.webp", "https://i.ibb.co/gVtNBFx/bannergaming2023.webp"],
         "author": {
@@ -1910,7 +1910,7 @@
         }, {
           "@type": "ListItem",
           "position": 3,
-          "name": "Mesa168 Daftar penghargaan Game of the Year"
+          "name": "Mesa168 Electronic Sport Indonesia 2023"
         }]
       }
         </script>
@@ -1924,9 +1924,9 @@
               <span itemscope="itemscope" itemtype="http://schema.org/Brand">
                 <a itemprop="url" href="#" title="Mesa168 gaming">
                   <a href="#" title="Mesa168 gaming">
-                    <amp-img src="https://i.ibb.co/ZY305Vr/mesa168gaming.webp" alt="Mesa168 gaming" width="270" height="94"/>
+                    <amp-img src="https://i.ibb.co/H4q61D5/mesa168-logo.png" alt="Mesa168 gaming" width="270" height="94"/>
                   </a>
-                  <meta itemprop="name" content="Mesa168 Daftar penghargaan Game of the Year">
+                  <meta itemprop="name" content="Mesa168 Electronic Sport Indonesia 2023">
                 </a>
               </span>
             </div>
@@ -1944,23 +1944,14 @@
               <span itemscope="itemscope" itemtype="http://schema.org/Brand">
                 <a itemprop="url" href="https://slebew.bio/" title="Mesa168 gaming">
                   <a href="#" title="Mesa168 gaming">
-                    <amp-img src="https://i.ibb.co/ZY305Vr/mesa168gaming.webp" alt="Mesa168 gaming" width="300" height="68" layout="responsive"/>
+                    <amp-img src="https://i.ibb.co/H4q61D5/mesa168-logo.png" alt="Mesa168 gaming" width="300" height="68" layout="responsive"/>
                   </a>
-                  <meta itemprop="name" content="Mesa168 Daftar penghargaan Game of the Year">
+                  <meta itemprop="name" content="Mesa168 Electronic Sport Indonesia 2023">
                 </a>
               </span>
             </div>
           </div>
-		  <div class="spacer"></div>
-      <div class="container">
-        <div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
-          <amp-img src="https://i.ibb.co/gVtNBFx/bannergaming2023.webp" width="1290" height="309" layout="responsive" alt="Situs Mesa168 gaming Terpercaya">
-          </amp-img>
-        </div>
-      </div>
-				 				<h1 style="text-align: center;" itemprop="headline">
-         Mesa168 Daftar penghargaan Game of the Year
-    </h1>
+
           <div class="col-md-8">
             <div class="row logform">
               <div class="col-xs-6">
@@ -1976,6 +1967,62 @@
             </div>
           </div>
         </div>
-        
-  </body>
-</html>
+        <div class="spacer"></div>
+      <div class="container">
+        <div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
+          <amp-img src="https://i.ibb.co/gVtNBFx/bannergaming2023.webp" width="1290" height="309" layout="responsive" alt="Situs Mesa168 gaming Terpercaya">
+          </amp-img>
+        </div>
+      </div>
+      <div class="clear"></div>
+      <div class="container">
+        <div class="table">
+          <table class="seo-Mesa168" style="width:100%">
+            <thead>
+              <tr>
+                <th colspan="3">Mesa168 Electronic Sport Indonesia 2023</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="padding: 10px;">Nama Situs</td>
+                <td style="padding: 10px;">
+                  <a href="#" title="Mesa168 gaming" rel="nofollow noopener" target="_blank">Mesa168</a>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Jenis Permainan</td>
+                <td style="padding: 10px;">
+                  <a href="#" title="Gaming Online">Gaming Online, Demo game,Mobile Legend, Final Fantasy XVI, PS5 EA SPORTS, Marvel Spider-Man 2.</a>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 10px;">Daftar Sekarang</td>
+                <td style="padding: 10px;">
+                  <span style="color: #ffffff;">
+                    <a style="color: #ffffff;" title="Klik Daftar Mesa168 gaming" href="https://slebew.bio/" target="_blank" rel="nofollow noopener">TEKAN SEKARANG</a>
+                  </span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <br>
+      <div class="bottom bg-dark">
+        <div class="container">
+          <div class="row mb-3" style="background-color: #020202;">
+            <div class="col-md-12 pb-5">
+              <div class="site-description">
+                <p id="breadcrumbs">
+                  <span>
+                    <span>
+                      <a href="#">Home</a> >> <a href="#">Mesa168</a> >> <strong class="breadcrumb_last" aria-current="page">Mesa168 Electronic Sport Indonesia 2023</strong>
+                    </span>
+                  </span>
+                </p>
+                <hr>
+				
+				<h1 style="text-align: center;" itemprop="headline">
+         Mesa168 Electronic Sport Indonesia 2023
+    </h1>

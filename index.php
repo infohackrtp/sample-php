@@ -2397,8 +2397,8 @@
         <div id="qb" class="b">
             <div class="c zb ic">
                 <div class="xb be">
-                    <a class="i" href="https://www.wisatavilla.xyz/anjay"> <amp-img src="https://i.ibb.co/P5Tb1DD/ikon-home.png" width="20" height="25" layout="fixed" class="ce nc amp-wp-enforced-sizes i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:20px;height:25px" i-amphtml-layout="fixed" alt="home"><noscript><img src="https://i.ibb.co/P5Tb1DD/ikon-home.png" width="20" height="25" class="ce nc" alt="home"></noscript></amp-img>
-                        <div class="bc"><span class="ac">HOME</span></div>
+                    <a class="i" href="https://www.wisatavilla.xyz/hackrtp"> <amp-img src="https://i.ibb.co/P5Tb1DD/ikon-home.png" width="20" height="25" layout="fixed" class="ce nc amp-wp-enforced-sizes i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:20px;height:25px" i-amphtml-layout="fixed" alt="home"><noscript><img src="https://i.ibb.co/P5Tb1DD/ikon-home.png" width="20" height="25" class="ce nc" alt="home"></noscript></amp-img>
+                        <div class="bc"><span class="ac">HACK RTP</span></div>
                     </a>
                 </div>
                 <div class="xb be">

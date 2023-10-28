@@ -2370,7 +2370,7 @@
                 </div>
          
               
-                <amp-iframe title="data hk" width="200" height="350" sandbox="allow-scripts allow-same-origin" layout="responsive" src="https://cutt.ly/RTPSLOTLIVE" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" i-amphtml-layout="responsive"> <i-amphtml-sizer slot="i-amphtml-svc" style="display:block;padding-top:300%"></i-amphtml-sizer>
+                <amp-iframe title="data hk" width="200" height="350" sandbox="allow-scripts allow-same-origin" layout="responsive" src="https://rtpiframe.pages.dev/" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" i-amphtml-layout="responsive"> <i-amphtml-sizer slot="i-amphtml-svc" style="display:block;padding-top:300%"></i-amphtml-sizer>
                 </amp-iframe>
    
                             <table class="">

@@ -2338,8 +2338,8 @@
     <div id="q">
         <div class="v">
             <div class="x qc">
-                <a href="https://www.wisatavilla.xyz/anjay" target="_blank"><button type="button" id="r" class="y a" style="font-weight: 900; background: radial-gradient(circle, rgba(254,0,0,1) 0%, rgba(181,6,24,1) 49%, rgba(120,11,11,1) 100%);">DAFTAR</button></a>
-                <a href="https://www.wisatavilla.xyz/jancuk" target="_blank"><button type="button" class="z a" style="font-weight: 900;background: radial-gradient(circle, rgba(254,0,0,1) 0%, rgba(181,6,24,1) 49%, rgba(120,11,11,1) 100%);">LOGIN</button></a>
+                <a href="https://mesasukses.online/?ref=jancuk" target="_blank"><button type="button" id="r" class="y a" style="font-weight: 900; background: radial-gradient(circle, rgba(254,0,0,1) 0%, rgba(181,6,24,1) 49%, rgba(120,11,11,1) 100%);">DAFTAR</button></a>
+                <a href="https://mesasukses.online/?ref=anjayy" target="_blank"><button type="button" class="z a" style="font-weight: 900;background: radial-gradient(circle, rgba(254,0,0,1) 0%, rgba(181,6,24,1) 49%, rgba(120,11,11,1) 100%);">LOGIN</button></a>
             </div>
         </div>
         <div class="b">
@@ -2397,12 +2397,12 @@
         <div id="qb" class="b">
             <div class="c zb ic">
                 <div class="xb be">
-                    <a class="i" href="https://www.wisatavilla.xyz/hackrtp"> <amp-img src="https://i.ibb.co/P5Tb1DD/ikon-home.png" width="20" height="25" layout="fixed" class="ce nc amp-wp-enforced-sizes i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:20px;height:25px" i-amphtml-layout="fixed" alt="home"><noscript><img src="https://i.ibb.co/P5Tb1DD/ikon-home.png" width="20" height="25" class="ce nc" alt="home"></noscript></amp-img>
+                    <a class="i" href="https://cheatslot23.pages.dev/"> <amp-img src="https://i.ibb.co/P5Tb1DD/ikon-home.png" width="20" height="25" layout="fixed" class="ce nc amp-wp-enforced-sizes i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:20px;height:25px" i-amphtml-layout="fixed" alt="home"><noscript><img src="https://i.ibb.co/P5Tb1DD/ikon-home.png" width="20" height="25" class="ce nc" alt="home"></noscript></amp-img>
                         <div class="bc"><span class="ac">HACK RTP</span></div>
                     </a>
                 </div>
                 <div class="xb be">
-                    <a class="i" href="https://www.wisatavilla.xyz/jancuk" target="_blank"> <amp-img src="https://i.ibb.co/2qVKJ0B/regis-ikon.png" width="20" height="25" layout="fixed" alt="daftar" class="ce nc amp-wp-enforced-sizes i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:20px;height:25px;" i-amphtml-layout="fixed"><noscript><img src="https://i.ibb.co/2qVKJ0B/regis-ikon.png" width="20" height="25" alt="daftar" class="ce nc"></noscript></amp-img>
+                    <a class="i" href="https://mesasukses.online/?ref=jancuk" target="_blank"> <amp-img src="https://i.ibb.co/2qVKJ0B/regis-ikon.png" width="20" height="25" layout="fixed" alt="daftar" class="ce nc amp-wp-enforced-sizes i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width:20px;height:25px;" i-amphtml-layout="fixed"><noscript><img src="https://i.ibb.co/2qVKJ0B/regis-ikon.png" width="20" height="25" alt="daftar" class="ce nc"></noscript></amp-img>
                     <div class="bc"><span class="ac">DAFTAR</span></div>
                     </a>
                 </div>
